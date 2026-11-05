@@ -4,7 +4,7 @@
   "focus": "lactate_tolerance",
   "phase": null,
   "unit": "yards",
-  "total_distance": 3425,
+  "total_distance": null,
   "notes": "Non-Chuck only.",
   "sets": [
     {
@@ -115,7 +115,7 @@
     {
       "name": "Pre-Set",
       "category": "preset",
-      "set_distance": 1725,
+      "set_distance": 1800,
       "reps": 1,
       "items": [
         {
@@ -158,81 +158,25 @@
           "notes": "IM order applies to the whole 500: each round's 100 drill and 25 swim use that round's stroke (fly, back, breast, free)."
         },
         {
-          "reps": 2,
-          "items": [
-            {
-              "reps": 1,
-              "distance": 50,
-              "stroke": "choice",
-              "type": "swim",
-              "interval_seconds": null,
-              "rest_seconds": null,
-              "equipment": [],
-              "drill": null,
-              "effort": null,
-              "breathing": "count",
-              "breathing_pattern": [
-                3
-              ],
-              "pattern_per": 50,
-              "start": null,
-              "notes": null
-            },
-            {
-              "reps": 1,
-              "distance": 50,
-              "stroke": "choice",
-              "type": "swim",
-              "interval_seconds": null,
-              "rest_seconds": null,
-              "equipment": [],
-              "drill": null,
-              "effort": null,
-              "breathing": "count",
-              "breathing_pattern": [
-                5
-              ],
-              "pattern_per": 50,
-              "start": null,
-              "notes": null
-            },
-            {
-              "reps": 1,
-              "distance": 50,
-              "stroke": "choice",
-              "type": "swim",
-              "interval_seconds": null,
-              "rest_seconds": null,
-              "equipment": [],
-              "drill": null,
-              "effort": null,
-              "breathing": "count",
-              "breathing_pattern": [
-                3
-              ],
-              "pattern_per": 50,
-              "start": null,
-              "notes": null
-            },
-            {
-              "reps": 1,
-              "distance": 50,
-              "stroke": "choice",
-              "type": "swim",
-              "interval_seconds": null,
-              "rest_seconds": null,
-              "equipment": [],
-              "drill": null,
-              "effort": null,
-              "breathing": "count",
-              "breathing_pattern": [
-                7
-              ],
-              "pattern_per": 50,
-              "start": null,
-              "notes": null
-            }
-          ]
+          "reps": 1,
+          "distance": 400,
+          "stroke": "choice",
+          "type": "swim",
+          "interval_seconds": null,
+          "rest_seconds": null,
+          "equipment": [],
+          "drill": null,
+          "effort": null,
+          "breathing": "count",
+          "breathing_pattern": [
+            3,
+            5,
+            3,
+            7
+          ],
+          "pattern_per": 50,
+          "start": null,
+          "notes": null
         },
         {
           "reps": 1,
@@ -349,44 +293,23 @@
       "reps": 1,
       "items": [
         {
-          "reps": 2,
-          "items": [
-            {
-              "reps": 1,
-              "distance": 100,
-              "stroke": "free",
-              "type": "swim",
-              "interval_seconds": 90,
-              "rest_seconds": null,
-              "equipment": [],
-              "drill": null,
-              "effort": "easy",
-              "breathing": null,
-              "breathing_pattern": null,
-              "pattern_per": null,
-              "start": null,
-              "notes": null
-            },
-            {
-              "reps": 1,
-              "distance": 100,
-              "stroke": "back",
-              "type": "swim",
-              "interval_seconds": 100,
-              "rest_seconds": null,
-              "equipment": [],
-              "drill": null,
-              "effort": "easy",
-              "breathing": null,
-              "breathing_pattern": null,
-              "pattern_per": null,
-              "start": null,
-              "notes": null
-            }
-          ]
+          "reps": 4,
+          "distance": 100,
+          "stroke": "choice",
+          "type": "swim",
+          "interval_seconds": null,
+          "rest_seconds": null,
+          "equipment": [],
+          "drill": null,
+          "effort": null,
+          "breathing": null,
+          "breathing_pattern": null,
+          "pattern_per": null,
+          "start": null,
+          "notes": "Board says '4x100 @1:30/1:40, fr/bk': free or back; 1:30 or 1:40 depending on lane."
         }
       ],
-      "notes": "Alternating free/back and associated send-offs inferred from fr/bk 1:30/1:40 notation."
+      "notes": null
     }
   ]
 }

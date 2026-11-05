@@ -99,6 +99,13 @@ Allowed values:
 - `kick`
 - `cooldown`
 
+Rules:
+- `warmup`: the first set, usually named Warm Up.
+- `preset`: any set between the warmup and the main set (Pre-Set, Turn Work, drill or technique sets).
+- `main`: the set the coach calls Main, or the hardest/longest set of the practice. Sets after it that aren't cooldown are also `main`.
+- `kick`: a set that is entirely kick.
+- `cooldown`: Warm Down, WD, Cool Down.
+
 ### set_distance
 
 - Positive integer: the set distance the **coach wrote**.
@@ -172,6 +179,7 @@ Allowed values:
 
 Rules:
 - If `drill` is not `null`, `type` must be `drill`.
+- Turn practice (single/double turn reps) uses `type: drill`.
 - `type: pull` does not automatically imply use of a pull buoy.
 - Equipment is specified independently in `equipment`.
 - A pull set may use paddles, a buoy, both, or neither.
@@ -249,7 +257,9 @@ Allowed values:
 - `snorkel`
 - `pull_buoy`
 - `kickboard`
-- `bungee` — Resistance cord tied to the waist; swim until it stops you, then hold for a few strokes. Distance is usually `null`.
+- `bungee` — Resistance cord tied to the waist; work until it stops you, then hold for a few strokes. Distance is usually `null`.
+  - `type` follows the activity: bungee kick → `kick`, arms-only bungee work → `pull`, full stroke → `swim`.
+  - "Bungee pull" means a resisted full-stroke sprint → `type: swim`.
 
 Examples:
 
@@ -380,9 +390,11 @@ Repeat the pattern for each repetition.
 Validation:
 - `breathing: count` requires `breathing_pattern` and `pattern_per`.
 - The pattern restarts for each repetition.
-- For patterns covering one repetition exactly:
+- The pattern repeats within a repetition, so the distance must be a multiple of the pattern length:
 
-`length(breathing_pattern) * pattern_per == distance`
+`distance % (length(breathing_pattern) * pattern_per) == 0`
+
+Example: `400 breathe 3-5-3-7 by 50` → `distance: 400`, `breathing_pattern: [3, 5, 3, 7]`, `pattern_per: 50` (pattern runs twice).
 
 - When `breathing` is `null`, both pattern fields must be `null`.
 
@@ -401,6 +413,9 @@ Definitions:
 - `null` — No specified starting instruction
 
 Starting instructions belong in `start`, not `effort`.
+
+Normalization:
+- `dive`, `OTB`, `off the block(s)`, `starts` → `off_blocks`
 
 ---
 
@@ -463,6 +478,11 @@ Distance:
 `2 * (50 + 50) = 200`
 
 Do not flatten alternating activities into grouped totals if doing so changes their order.
+
+### Round shorthand
+
+- `2 x { ... }` → a round with `reps: 2` containing the items inside the braces.
+- `8 x 25 speed play x2` → a round with `reps: 2` containing `8 x 25`. A trailing `xN` repeats the whole line N times.
 
 ---
 
