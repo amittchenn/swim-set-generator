@@ -3,6 +3,7 @@ import anthropic
 import json
 import os
 import sys
+import glob
 
 load_dotenv()
 client = anthropic.Anthropic()
@@ -64,6 +65,21 @@ def convert(chunk_path, out_path):
  
  
 if __name__ == "__main__":
-    chunk_path = sys.argv[1] if len(sys.argv) > 1 else "chunks/2026-10-26_sprint.txt"
-    name = os.path.splitext(os.path.basename(chunk_path))[0]
-    convert(chunk_path, f"data/test_{name}.json")
+    os.makedirs("converted", exist_ok=True)
+    chunks = sys.argv[1:] or sorted(glob.glob("chunks/*.txt"))
+
+    for chunk_path in chunks:
+        name = os.path.splitext(os.path.basename(chunk_path))[0]
+        out_path = f"converted/swim_workout_{name}.json"
+
+        if "all_groups" in name:
+            print(f"skip (multi-group page): {name}")
+            continue
+        if os.path.exists(out_path):
+            print(f"skip (already done): {name}")
+            continue
+
+        try:
+            convert(chunk_path, out_path)
+        except Exception as e:
+            print(f"FAILED {name}: {e}")

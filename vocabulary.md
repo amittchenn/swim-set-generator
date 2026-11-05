@@ -15,11 +15,14 @@ This document defines the standardized vocabulary, schema conventions, and valid
 Identifies the training group.
 
 Allowed values:
-- `competitive`
+- `competitive` — Comp, Competitive
+- `sprint` — Comp Sprint, Sprint
+- `distance` — Mid/Distance, Comp Distance, Distance, Mid-D
+- `intermediate` — Inter, Intermediate
+- `intro` — Intro
 - `recreational`
 - `masters`
 - `developmental`
-- `sprint`
 
 Additional groups must be added to the vocabulary before use.
 
@@ -37,7 +40,7 @@ Allowed values:
 - `race_pace` — Swimming at target competition speeds
 - `lactate_tolerance` — High-intensity repeats with long rest to build tolerance to lactate
 
-Use exactly one focus per practice.
+Use at most one focus per practice. Use `null` if the practice doesn't state a focus.
 
 ### phase
 

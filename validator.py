@@ -3,8 +3,8 @@ import json
 import re
 import sys
 
-GROUPS = {"competitive", "recreational", "masters", "developmental", "sprint"}
-FOCUSES = {"recovery", "endurance", "speed", "technique", "race_pace", "lactate_tolerance"}
+GROUPS = {"competitive", "sprint", "distance", "intermediate", "intro", "recreational", "masters", "developmental"}
+FOCUSES = {"recovery", "endurance", "speed", "technique", "race_pace", "lactate_tolerance", None}
 PHASES = {"base", "build", "taper", None}
 UNITS = {"yards", "meters"}
 CATEGORIES = {"warmup", "preset", "main", "kick", "cooldown"}
@@ -84,8 +84,8 @@ def check_item(item, where, errors, in_rotation=False):
     if b == "count":
         if not pat or per is None:
             err("breathing 'count' needs breathing_pattern and pattern_per")
-        elif d is not None and len(pat) * per != d:
-            err(f"breathing pattern covers {len(pat) * per}, but distance is {d}")
+        elif d is not None and d % (len(pat) * per) != 0:
+            err(f"breathing pattern of {len(pat) * per} doesn't fit evenly into distance {d}")
     elif pat is not None or per is not None:
         err("breathing_pattern/pattern_per set but breathing is not 'count'")
 

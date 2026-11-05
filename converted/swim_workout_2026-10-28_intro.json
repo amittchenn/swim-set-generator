@@ -1,15 +1,15 @@
 {
-  "date": "2026-10-26",
-  "group": "sprint",
-  "focus": "speed",
+  "date": "2026-10-28",
+  "group": "intro",
+  "focus": null,
   "phase": null,
   "unit": "yards",
-  "total_distance": null,
+  "total_distance": 2600,
   "sets": [
     {
       "name": "Warm Up",
       "category": "warmup",
-      "set_distance": null,
+      "set_distance": 800,
       "reps": 1,
       "items": [
         {
@@ -17,22 +17,6 @@
           "distance": 200,
           "stroke": "choice",
           "type": "swim",
-          "interval_seconds": null,
-          "rest_seconds": null,
-          "equipment": [],
-          "drill": null,
-          "effort": null,
-          "breathing": null,
-          "breathing_pattern": null,
-          "pattern_per": null,
-          "start": null,
-          "notes": null
-        },
-        {
-          "reps": 1,
-          "distance": 100,
-          "stroke": "choice",
-          "type": "scull",
           "interval_seconds": null,
           "rest_seconds": null,
           "equipment": [],
@@ -64,6 +48,22 @@
           "reps": 1,
           "distance": 100,
           "stroke": "choice",
+          "type": "kick",
+          "interval_seconds": null,
+          "rest_seconds": null,
+          "equipment": [],
+          "drill": null,
+          "effort": null,
+          "breathing": null,
+          "breathing_pattern": null,
+          "pattern_per": null,
+          "start": null,
+          "notes": "Board says '300 Kick/Scull/Swim'; split as 100 kick, 100 scull, 100 swim."
+        },
+        {
+          "reps": 1,
+          "distance": 100,
+          "stroke": "choice",
           "type": "scull",
           "interval_seconds": null,
           "rest_seconds": null,
@@ -77,40 +77,11 @@
           "notes": null
         },
         {
-          "reps": 2,
-          "items": [
-            {
-              "reps": 8,
-              "distance": 25,
-              "stroke": "choice",
-              "type": "swim",
-              "interval_seconds": 30,
-              "rest_seconds": null,
-              "equipment": [],
-              "drill": null,
-              "effort": "speed_play",
-              "breathing": null,
-              "breathing_pattern": null,
-              "pattern_per": null,
-              "start": null,
-              "notes": null
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "name": "Turn Work",
-      "category": "preset",
-      "set_distance": null,
-      "reps": 1,
-      "items": [
-        {
-          "reps": 6,
-          "distance": 50,
+          "reps": 1,
+          "distance": 100,
           "stroke": "choice",
-          "type": "drill",
-          "interval_seconds": 90,
+          "type": "swim",
+          "interval_seconds": null,
           "rest_seconds": null,
           "equipment": [],
           "drill": null,
@@ -119,13 +90,111 @@
           "breathing_pattern": null,
           "pattern_per": null,
           "start": null,
-          "notes": "Double turn reps; sprint into wall."
+          "notes": null
+        },
+        {
+          "reps": 4,
+          "distance": 25,
+          "stroke": "choice",
+          "type": "swim",
+          "interval_seconds": 60,
+          "rest_seconds": null,
+          "equipment": [],
+          "drill": null,
+          "effort": "speed_play",
+          "breathing": null,
+          "breathing_pattern": null,
+          "pattern_per": null,
+          "start": null,
+          "notes": null
+        }
+      ]
+    },
+    {
+      "name": "Pre Set",
+      "category": "preset",
+      "set_distance": 400,
+      "reps": 1,
+      "items": [
+        {
+          "reps": 4,
+          "distance": 50,
+          "stroke": "choice",
+          "type": "swim",
+          "interval_seconds": 70,
+          "rest_seconds": null,
+          "equipment": [
+            "paddles"
+          ],
+          "drill": null,
+          "effort": null,
+          "breathing": null,
+          "breathing_pattern": null,
+          "pattern_per": null,
+          "start": null,
+          "notes": null
+        },
+        {
+          "reps": 8,
+          "distance": null,
+          "stroke": "choice",
+          "type": "swim",
+          "interval_seconds": 40,
+          "rest_seconds": null,
+          "equipment": [],
+          "drill": null,
+          "effort": null,
+          "breathing": null,
+          "breathing_pattern": null,
+          "pattern_per": null,
+          "start": null,
+          "notes": "6 fast strokes per rep; no distance given."
+        }
+      ]
+    },
+    {
+      "name": "Main Set",
+      "category": "main",
+      "set_distance": 1100,
+      "reps": 2,
+      "items": [
+        {
+          "reps": 2,
+          "distance": 100,
+          "stroke": "choice",
+          "type": "swim",
+          "interval_seconds": 130,
+          "rest_seconds": null,
+          "equipment": [],
+          "drill": null,
+          "effort": null,
+          "breathing": null,
+          "breathing_pattern": null,
+          "pattern_per": null,
+          "start": null,
+          "notes": null
+        },
+        {
+          "reps": 4,
+          "distance": 50,
+          "stroke": "choice",
+          "type": "swim",
+          "interval_seconds": 70,
+          "rest_seconds": null,
+          "equipment": [],
+          "drill": null,
+          "effort": null,
+          "breathing": null,
+          "breathing_pattern": null,
+          "pattern_per": null,
+          "start": null,
+          "notes": null
         },
         {
           "reps": 6,
           "distance": 25,
           "stroke": "choice",
-          "type": "drill",
+          "type": "swim",
           "interval_seconds": 60,
           "rest_seconds": null,
           "equipment": [],
@@ -135,97 +204,37 @@
           "breathing_pattern": null,
           "pattern_per": null,
           "start": null,
-          "notes": "Single turn reps; sprint into wall."
-        },
-        {
-          "reps": 12,
-          "distance": null,
-          "stroke": "choice",
-          "type": null,
-          "interval_seconds": 120,
-          "rest_seconds": null,
-          "equipment": [
-            "bungee"
-          ],
-          "drill": null,
-          "effort": null,
-          "breathing": null,
-          "breathing_pattern": null,
-          "pattern_per": null,
-          "start": null,
-          "notes": "Board says 'bungee pull into wall'; activity type unclear. High stroke rate with sprint technique but not max effort."
+          "notes": "Swim FAST. Then 2 minutes rest at the end of each round."
         }
       ]
     },
     {
-      "name": "Start Work",
-      "category": "main",
-      "set_distance": null,
-      "reps": 1,
-      "items": [
-        {
-          "reps": 2,
-          "distance": 25,
-          "stroke": "choice",
-          "type": "swim",
-          "interval_seconds": 180,
-          "rest_seconds": null,
-          "equipment": [],
-          "drill": null,
-          "effort": null,
-          "breathing": null,
-          "breathing_pattern": null,
-          "pattern_per": null,
-          "start": "off_blocks",
-          "notes": "25s are to a flip."
-        },
-        {
-          "reps": 6,
-          "distance": null,
-          "stroke": "choice",
-          "type": "swim",
-          "interval_seconds": 180,
-          "rest_seconds": null,
-          "equipment": [
-            "bungee"
-          ],
-          "drill": null,
-          "effort": null,
-          "breathing": null,
-          "breathing_pattern": null,
-          "pattern_per": null,
-          "start": "off_blocks",
-          "notes": "Dive with bungee till stopped."
-        },
-        {
-          "reps": 2,
-          "distance": 25,
-          "stroke": "choice",
-          "type": "swim",
-          "interval_seconds": 180,
-          "rest_seconds": null,
-          "equipment": [],
-          "drill": null,
-          "effort": null,
-          "breathing": null,
-          "breathing_pattern": null,
-          "pattern_per": null,
-          "start": "off_blocks",
-          "notes": "25s are to a flip."
-        }
-      ]
-    },
-    {
-      "name": "WD",
+      "name": "Warm Down",
       "category": "cooldown",
-      "set_distance": null,
+      "set_distance": 300,
       "reps": 1,
       "items": [
         {
           "reps": 1,
-          "distance": 200,
+          "distance": 100,
           "stroke": "choice",
           "type": "swim",
+          "interval_seconds": null,
+          "rest_seconds": null,
+          "equipment": [],
+          "drill": null,
+          "effort": "easy",
+          "breathing": null,
+          "breathing_pattern": null,
+          "pattern_per": null,
+          "start": null,
+          "notes": null
+        },
+        {
+          "reps": 4,
+          "distance": 50,
+          "stroke": "choice",
+          "type": "kick",
           "interval_seconds": null,
           "rest_seconds": null,
           "equipment": [],
