@@ -1,0 +1,265 @@
+{
+  "date": "2026-09-30",
+  "group": "intro",
+  "focus": null,
+  "phase": null,
+  "unit": "yards",
+  "total_distance": 1400,
+  "sets": [
+    {
+      "name": "Warm Up",
+      "category": "warmup",
+      "set_distance": 400,
+      "reps": 1,
+      "items": [
+        {
+          "reps": 8,
+          "distance": 25,
+          "stroke": "choice",
+          "type": "swim",
+          "interval_seconds": null,
+          "rest_seconds": null,
+          "equipment": [],
+          "drill": null,
+          "effort": null,
+          "breathing": null,
+          "breathing_pattern": null,
+          "pattern_per": null,
+          "start": null,
+          "notes": "@ Ready"
+        },
+        {
+          "reps": 2,
+          "items": [
+            {
+              "reps": 1,
+              "distance": 50,
+              "stroke": "choice",
+              "type": "scull",
+              "interval_seconds": null,
+              "rest_seconds": null,
+              "equipment": [],
+              "drill": null,
+              "effort": null,
+              "breathing": null,
+              "breathing_pattern": null,
+              "pattern_per": null,
+              "start": null,
+              "notes": "Board says '4 x 50 Scull/Swim @ Ready'; interpreted as alternating 50 scull, 50 swim."
+            },
+            {
+              "reps": 1,
+              "distance": 50,
+              "stroke": "choice",
+              "type": "swim",
+              "interval_seconds": null,
+              "rest_seconds": null,
+              "equipment": [],
+              "drill": null,
+              "effort": null,
+              "breathing": null,
+              "breathing_pattern": null,
+              "pattern_per": null,
+              "start": null,
+              "notes": "@ Ready"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Pre Set",
+      "category": "preset",
+      "set_distance": 400,
+      "reps": 1,
+      "items": [
+        {
+          "reps": 4,
+          "distance": 25,
+          "stroke": "choice",
+          "type": "scull",
+          "interval_seconds": null,
+          "rest_seconds": null,
+          "equipment": [
+            "pull_buoy"
+          ],
+          "drill": null,
+          "effort": null,
+          "breathing": null,
+          "breathing_pattern": null,
+          "pattern_per": null,
+          "start": null,
+          "notes": "@ Ready"
+        },
+        {
+          "reps": 4,
+          "distance": 25,
+          "stroke": "choice",
+          "type": "scull",
+          "interval_seconds": null,
+          "rest_seconds": null,
+          "equipment": [
+            "pull_buoy",
+            "paddles"
+          ],
+          "drill": null,
+          "effort": null,
+          "breathing": null,
+          "breathing_pattern": null,
+          "pattern_per": null,
+          "start": null,
+          "notes": "@ Ready"
+        },
+        {
+          "reps": 4,
+          "distance": 50,
+          "stroke": "choice",
+          "type": "swim",
+          "interval_seconds": null,
+          "rest_seconds": null,
+          "equipment": [],
+          "drill": null,
+          "effort": null,
+          "breathing": null,
+          "breathing_pattern": null,
+          "pattern_per": null,
+          "start": null,
+          "notes": "@ Ready"
+        }
+      ]
+    },
+    {
+      "name": "Main Set",
+      "category": "main",
+      "set_distance": 600,
+      "reps": 1,
+      "items": [
+        {
+          "reps": 4,
+          "distance": 50,
+          "stroke": "choice",
+          "type": "swim",
+          "interval_seconds": null,
+          "rest_seconds": null,
+          "equipment": [
+            "pull_buoy"
+          ],
+          "drill": null,
+          "effort": null,
+          "breathing": null,
+          "breathing_pattern": null,
+          "pattern_per": null,
+          "start": null,
+          "notes": "@ Ready"
+        },
+        {
+          "reps": 4,
+          "distance": 50,
+          "stroke": "choice",
+          "type": "swim",
+          "interval_seconds": null,
+          "rest_seconds": null,
+          "equipment": [
+            "pull_buoy",
+            "paddles"
+          ],
+          "drill": null,
+          "effort": null,
+          "breathing": null,
+          "breathing_pattern": null,
+          "pattern_per": null,
+          "start": null,
+          "notes": "@ Ready"
+        },
+        {
+          "reps": 4,
+          "distance": 50,
+          "stroke": "choice",
+          "type": "swim",
+          "interval_seconds": 100,
+          "rest_seconds": null,
+          "equipment": [],
+          "drill": null,
+          "effort": null,
+          "breathing": null,
+          "breathing_pattern": null,
+          "pattern_per": null,
+          "start": null,
+          "notes": null
+        }
+      ]
+    },
+    {
+      "name": "Warm Down",
+      "category": "cooldown",
+      "set_distance": 300,
+      "reps": 1,
+      "items": [
+        {
+          "reps": 1,
+          "distance": 100,
+          "stroke": "choice",
+          "type": "kick",
+          "interval_seconds": null,
+          "rest_seconds": null,
+          "equipment": [],
+          "drill": null,
+          "effort": null,
+          "breathing": null,
+          "breathing_pattern": null,
+          "pattern_per": null,
+          "start": null,
+          "notes": null
+        },
+        {
+          "reps": 1,
+          "distance": 100,
+          "stroke": "choice",
+          "type": "swim",
+          "interval_seconds": null,
+          "rest_seconds": null,
+          "equipment": [],
+          "drill": null,
+          "effort": null,
+          "breathing": null,
+          "breathing_pattern": null,
+          "pattern_per": null,
+          "start": null,
+          "notes": null
+        },
+        {
+          "reps": 1,
+          "distance": 50,
+          "stroke": "choice",
+          "type": "kick",
+          "interval_seconds": null,
+          "rest_seconds": null,
+          "equipment": [],
+          "drill": null,
+          "effort": null,
+          "breathing": null,
+          "breathing_pattern": null,
+          "pattern_per": null,
+          "start": null,
+          "notes": null
+        },
+        {
+          "reps": 1,
+          "distance": 50,
+          "stroke": "choice",
+          "type": "swim",
+          "interval_seconds": null,
+          "rest_seconds": null,
+          "equipment": [],
+          "drill": null,
+          "effort": null,
+          "breathing": null,
+          "breathing_pattern": null,
+          "pattern_per": null,
+          "start": null,
+          "notes": null
+        }
+      ]
+    }
+  ]
+}

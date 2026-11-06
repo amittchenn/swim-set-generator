@@ -1,0 +1,215 @@
+{
+  "date": "2026-10-21",
+  "group": "intro",
+  "focus": null,
+  "phase": null,
+  "unit": "yards",
+  "total_distance": 2100,
+  "sets": [
+    {
+      "name": "Warm Up",
+      "category": "warmup",
+      "set_distance": 650,
+      "reps": 1,
+      "items": [
+        {
+          "reps": 6,
+          "distance": 25,
+          "stroke": "choice",
+          "type": "swim",
+          "interval_seconds": null,
+          "rest_seconds": 15,
+          "equipment": [],
+          "drill": null,
+          "effort": null,
+          "breathing": null,
+          "breathing_pattern": null,
+          "pattern_per": null,
+          "start": null,
+          "notes": "w/ 4+ UW (abbreviation not verified)"
+        },
+        {
+          "reps": 3,
+          "distance": 100,
+          "stroke": "free",
+          "type": "swim",
+          "interval_seconds": null,
+          "rest_seconds": null,
+          "equipment": [],
+          "drill": null,
+          "effort": null,
+          "breathing": null,
+          "breathing_pattern": null,
+          "pattern_per": null,
+          "start": null,
+          "notes": "@ ready"
+        },
+        {
+          "reps": 4,
+          "distance": 50,
+          "stroke": "choice",
+          "type": null,
+          "interval_seconds": null,
+          "rest_seconds": null,
+          "equipment": [],
+          "drill": null,
+          "effort": null,
+          "breathing": null,
+          "breathing_pattern": null,
+          "pattern_per": null,
+          "start": null,
+          "notes": "Choice non-free or drill; @ ready"
+        }
+      ]
+    },
+    {
+      "name": "Pull Set",
+      "category": "preset",
+      "set_distance": 850,
+      "reps": 1,
+      "items": [
+        {
+          "reps": 8,
+          "distance": 50,
+          "stroke": "choice",
+          "type": "pull",
+          "interval_seconds": null,
+          "rest_seconds": 20,
+          "equipment": [],
+          "drill": null,
+          "effort": null,
+          "breathing": null,
+          "breathing_pattern": null,
+          "pattern_per": null,
+          "start": null,
+          "notes": "Pull Progression"
+        },
+        {
+          "reps": 4,
+          "distance": 75,
+          "stroke": "choice",
+          "type": "drill",
+          "interval_seconds": null,
+          "rest_seconds": 15,
+          "equipment": [
+            "kickboard",
+            "pull_buoy"
+          ],
+          "drill": null,
+          "effort": null,
+          "breathing": null,
+          "breathing_pattern": null,
+          "pattern_per": null,
+          "start": null,
+          "notes": "Catch-up drill"
+        },
+        {
+          "reps": 6,
+          "distance": 50,
+          "stroke": "choice",
+          "type": "pull",
+          "interval_seconds": null,
+          "rest_seconds": 20,
+          "equipment": [],
+          "drill": null,
+          "effort": null,
+          "breathing": null,
+          "breathing_pattern": null,
+          "pattern_per": null,
+          "start": null,
+          "notes": "DPS (abbreviation not verified)"
+        }
+      ]
+    },
+    {
+      "name": "Main Set",
+      "category": "main",
+      "set_distance": 400,
+      "reps": 1,
+      "items": [
+        {
+          "reps": 2,
+          "items": [
+            {
+              "reps": 3,
+              "distance": 50,
+              "stroke": "choice",
+              "type": "swim",
+              "interval_seconds": null,
+              "rest_seconds": null,
+              "equipment": [],
+              "drill": null,
+              "effort": "descend",
+              "breathing": null,
+              "breathing_pattern": null,
+              "pattern_per": null,
+              "start": null,
+              "notes": "Descend to FAST; @ coach"
+            },
+            {
+              "reps": 1,
+              "distance": 50,
+              "stroke": "choice",
+              "type": "swim",
+              "interval_seconds": null,
+              "rest_seconds": null,
+              "equipment": [],
+              "drill": null,
+              "effort": "easy",
+              "breathing": null,
+              "breathing_pattern": null,
+              "pattern_per": null,
+              "start": null,
+              "notes": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Warm Down",
+      "category": "cooldown",
+      "set_distance": null,
+      "reps": 1,
+      "items": [
+        {
+          "reps": 4,
+          "items": [
+            {
+              "reps": 1,
+              "distance": 25,
+              "stroke": "back",
+              "type": "swim",
+              "interval_seconds": null,
+              "rest_seconds": null,
+              "equipment": [],
+              "drill": null,
+              "effort": null,
+              "breathing": null,
+              "breathing_pattern": null,
+              "pattern_per": null,
+              "start": null,
+              "notes": null
+            },
+            {
+              "reps": 1,
+              "distance": 25,
+              "stroke": "free",
+              "type": "swim",
+              "interval_seconds": null,
+              "rest_seconds": null,
+              "equipment": [],
+              "drill": null,
+              "effort": null,
+              "breathing": null,
+              "breathing_pattern": null,
+              "pattern_per": null,
+              "start": null,
+              "notes": null
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

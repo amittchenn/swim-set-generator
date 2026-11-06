@@ -1,0 +1,132 @@
+{
+  "date": "2026-08-31",
+  "group": "intermediate",
+  "focus": null,
+  "phase": null,
+  "unit": "yards",
+  "total_distance": 1250,
+  "sets": [
+    {
+      "name": "Warm-Up",
+      "category": "warmup",
+      "set_distance": 400,
+      "reps": 1,
+      "items": [
+        {
+          "reps": 4,
+          "distance": 50,
+          "stroke": "choice",
+          "type": "swim",
+          "interval_seconds": null,
+          "rest_seconds": 15,
+          "equipment": [],
+          "drill": null,
+          "effort": null,
+          "breathing": null,
+          "breathing_pattern": null,
+          "pattern_per": null,
+          "start": null,
+          "notes": null
+        },
+        {
+          "reps": 8,
+          "distance": 25,
+          "stroke": "choice",
+          "type": "swim",
+          "interval_seconds": null,
+          "rest_seconds": 5,
+          "equipment": [],
+          "drill": null,
+          "effort": null,
+          "breathing": null,
+          "breathing_pattern": null,
+          "pattern_per": null,
+          "start": null,
+          "notes": null
+        }
+      ]
+    },
+    {
+      "name": "Main Set",
+      "category": "main",
+      "set_distance": 900,
+      "reps": 3,
+      "items": [
+        {
+          "reps": 1,
+          "distance": 100,
+          "stroke": "choice",
+          "type": "kick",
+          "interval_seconds": null,
+          "rest_seconds": 20,
+          "equipment": [],
+          "drill": null,
+          "effort": null,
+          "breathing": null,
+          "breathing_pattern": null,
+          "pattern_per": null,
+          "start": null,
+          "notes": "Head Down Kick"
+        },
+        {
+          "reps": 2,
+          "distance": 50,
+          "stroke": "choice",
+          "type": "pull",
+          "interval_seconds": null,
+          "rest_seconds": 15,
+          "equipment": [
+            "pull_buoy"
+          ],
+          "drill": null,
+          "effort": null,
+          "breathing": null,
+          "breathing_pattern": null,
+          "pattern_per": null,
+          "start": null,
+          "notes": null
+        },
+        {
+          "reps": 4,
+          "distance": 25,
+          "stroke": "choice",
+          "type": "swim",
+          "interval_seconds": null,
+          "rest_seconds": 10,
+          "equipment": [],
+          "drill": null,
+          "effort": null,
+          "breathing": null,
+          "breathing_pattern": null,
+          "pattern_per": null,
+          "start": null,
+          "notes": null
+        }
+      ]
+    },
+    {
+      "name": "Warm Down",
+      "category": "cooldown",
+      "set_distance": 200,
+      "reps": 1,
+      "items": [
+        {
+          "reps": 4,
+          "distance": 50,
+          "stroke": "back",
+          "type": "swim",
+          "interval_seconds": null,
+          "rest_seconds": 20,
+          "equipment": [],
+          "drill": null,
+          "effort": null,
+          "breathing": null,
+          "breathing_pattern": null,
+          "pattern_per": null,
+          "start": null,
+          "notes": "Double Arm Backstroke"
+        }
+      ]
+    }
+  ]
+}

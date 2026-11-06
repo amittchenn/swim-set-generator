@@ -1,0 +1,246 @@
+{
+  "date": "2026-09-29",
+  "group": "intro",
+  "focus": null,
+  "phase": null,
+  "unit": "yards",
+  "total_distance": 1400,
+  "sets": [
+    {
+      "name": "Warm Up",
+      "category": "warmup",
+      "set_distance": 300,
+      "reps": 1,
+      "items": [
+        {
+          "reps": 2,
+          "items": [
+            {
+              "reps": 1,
+              "distance": 50,
+              "stroke": "choice",
+              "type": "swim",
+              "interval_seconds": null,
+              "rest_seconds": null,
+              "equipment": [],
+              "drill": null,
+              "effort": null,
+              "breathing": null,
+              "breathing_pattern": null,
+              "pattern_per": null,
+              "start": null,
+              "notes": null
+            },
+            {
+              "reps": 1,
+              "distance": 50,
+              "stroke": "choice",
+              "type": "kick",
+              "interval_seconds": null,
+              "rest_seconds": null,
+              "equipment": [],
+              "drill": null,
+              "effort": null,
+              "breathing": null,
+              "breathing_pattern": null,
+              "pattern_per": null,
+              "start": null,
+              "notes": null
+            }
+          ]
+        },
+        {
+          "reps": 1,
+          "distance": 100,
+          "stroke": "choice",
+          "type": "swim",
+          "interval_seconds": null,
+          "rest_seconds": null,
+          "equipment": [],
+          "drill": null,
+          "effort": null,
+          "breathing": null,
+          "breathing_pattern": null,
+          "pattern_per": null,
+          "start": null,
+          "notes": "Board says '100 stroke'."
+        }
+      ]
+    },
+    {
+      "name": "Pre-set",
+      "category": "preset",
+      "set_distance": 300,
+      "reps": 1,
+      "items": [
+        {
+          "reps": 2,
+          "items": [
+            {
+              "reps": 1,
+              "distance": 50,
+              "stroke": "choice",
+              "type": "pull",
+              "interval_seconds": null,
+              "rest_seconds": null,
+              "equipment": [],
+              "drill": null,
+              "effort": null,
+              "breathing": null,
+              "breathing_pattern": null,
+              "pattern_per": null,
+              "start": null,
+              "notes": "Board says '4x50 pull (evens with paddles)'; odd reps without paddles."
+            },
+            {
+              "reps": 1,
+              "distance": 50,
+              "stroke": "choice",
+              "type": "pull",
+              "interval_seconds": null,
+              "rest_seconds": null,
+              "equipment": [
+                "paddles"
+              ],
+              "drill": null,
+              "effort": null,
+              "breathing": null,
+              "breathing_pattern": null,
+              "pattern_per": null,
+              "start": null,
+              "notes": "Even reps with paddles."
+            }
+          ]
+        },
+        {
+          "reps": 4,
+          "distance": 25,
+          "stroke": "choice",
+          "type": "drill",
+          "interval_seconds": null,
+          "rest_seconds": null,
+          "equipment": [],
+          "drill": null,
+          "effort": null,
+          "breathing": null,
+          "breathing_pattern": null,
+          "pattern_per": null,
+          "start": null,
+          "notes": "Board says 'technique work'."
+        }
+      ]
+    },
+    {
+      "name": "Main set",
+      "category": "main",
+      "set_distance": 500,
+      "reps": 1,
+      "items": [
+        {
+          "reps": 1,
+          "distance": 200,
+          "stroke": "free",
+          "type": "swim",
+          "interval_seconds": null,
+          "rest_seconds": null,
+          "equipment": [],
+          "drill": null,
+          "effort": null,
+          "breathing": null,
+          "breathing_pattern": null,
+          "pattern_per": null,
+          "start": null,
+          "notes": "With turns."
+        },
+        {
+          "reps": 1,
+          "distance": 100,
+          "stroke": "choice",
+          "type": "kick",
+          "interval_seconds": null,
+          "rest_seconds": null,
+          "equipment": [],
+          "drill": null,
+          "effort": "social",
+          "breathing": null,
+          "breathing_pattern": null,
+          "pattern_per": null,
+          "start": null,
+          "notes": null
+        },
+        {
+          "reps": 1,
+          "distance": 100,
+          "stroke": "choice",
+          "type": "swim",
+          "interval_seconds": null,
+          "rest_seconds": null,
+          "equipment": [],
+          "drill": null,
+          "effort": null,
+          "breathing": null,
+          "breathing_pattern": null,
+          "pattern_per": null,
+          "start": null,
+          "notes": "Board says '100 swim stroke with turns'."
+        },
+        {
+          "reps": 1,
+          "distance": 50,
+          "stroke": "choice",
+          "type": "kick",
+          "interval_seconds": null,
+          "rest_seconds": null,
+          "equipment": [],
+          "drill": null,
+          "effort": "social",
+          "breathing": null,
+          "breathing_pattern": null,
+          "pattern_per": null,
+          "start": null,
+          "notes": null
+        },
+        {
+          "reps": 1,
+          "distance": 50,
+          "stroke": "choice",
+          "type": "swim",
+          "interval_seconds": null,
+          "rest_seconds": null,
+          "equipment": [],
+          "drill": null,
+          "effort": null,
+          "breathing": null,
+          "breathing_pattern": null,
+          "pattern_per": null,
+          "start": null,
+          "notes": "For time."
+        }
+      ]
+    },
+    {
+      "name": "Cool down",
+      "category": "cooldown",
+      "set_distance": 200,
+      "reps": 1,
+      "items": [
+        {
+          "reps": 4,
+          "distance": 50,
+          "stroke": "choice",
+          "type": "swim",
+          "interval_seconds": null,
+          "rest_seconds": null,
+          "equipment": [],
+          "drill": null,
+          "effort": null,
+          "breathing": null,
+          "breathing_pattern": null,
+          "pattern_per": null,
+          "start": null,
+          "notes": "Back or breaststroke."
+        }
+      ]
+    }
+  ]
+}

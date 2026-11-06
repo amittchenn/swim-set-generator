@@ -1,0 +1,135 @@
+{
+  "date": "2026-09-21",
+  "group": "intro",
+  "focus": null,
+  "phase": null,
+  "unit": "yards",
+  "total_distance": 800,
+  "sets": [
+    {
+      "name": "Warm-Up",
+      "category": "warmup",
+      "set_distance": 400,
+      "reps": 1,
+      "items": [
+        {
+          "reps": 2,
+          "items": [
+            {
+              "reps": 1,
+              "distance": 50,
+              "stroke": "free",
+              "type": "swim",
+              "interval_seconds": null,
+              "rest_seconds": null,
+              "equipment": [],
+              "drill": null,
+              "effort": null,
+              "breathing": null,
+              "breathing_pattern": null,
+              "pattern_per": null,
+              "start": null,
+              "notes": null
+            },
+            {
+              "reps": 1,
+              "distance": 50,
+              "stroke": "choice",
+              "type": "kick",
+              "interval_seconds": null,
+              "rest_seconds": null,
+              "equipment": [],
+              "drill": null,
+              "effort": null,
+              "breathing": null,
+              "breathing_pattern": null,
+              "pattern_per": null,
+              "start": null,
+              "notes": null
+            },
+            {
+              "reps": 1,
+              "distance": 50,
+              "stroke": "free",
+              "type": "swim",
+              "interval_seconds": null,
+              "rest_seconds": null,
+              "equipment": [],
+              "drill": null,
+              "effort": null,
+              "breathing": null,
+              "breathing_pattern": null,
+              "pattern_per": null,
+              "start": null,
+              "notes": null
+            },
+            {
+              "reps": 1,
+              "distance": 50,
+              "stroke": "choice",
+              "type": "swim",
+              "interval_seconds": null,
+              "rest_seconds": null,
+              "equipment": [],
+              "drill": null,
+              "effort": null,
+              "breathing": null,
+              "breathing_pattern": null,
+              "pattern_per": null,
+              "start": null,
+              "notes": "Board says '1 stroke'; stroke not specified."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Pre-Set",
+      "category": "preset",
+      "set_distance": 200,
+      "reps": 1,
+      "items": [
+        {
+          "reps": 4,
+          "distance": 50,
+          "stroke": "free",
+          "type": "drill",
+          "interval_seconds": null,
+          "rest_seconds": null,
+          "equipment": [],
+          "drill": null,
+          "effort": null,
+          "breathing": null,
+          "breathing_pattern": null,
+          "pattern_per": null,
+          "start": null,
+          "notes": "Focus on push off wall and underwater. Turn work progression: exhaling bubbles; somersaults with no wall; push off wall and then turn; turn and find wall."
+        }
+      ]
+    },
+    {
+      "name": "Main-Set",
+      "category": "main",
+      "set_distance": 200,
+      "reps": 1,
+      "items": [
+        {
+          "reps": 4,
+          "distance": 50,
+          "stroke": "free",
+          "type": "swim",
+          "interval_seconds": null,
+          "rest_seconds": null,
+          "equipment": [],
+          "drill": null,
+          "effort": null,
+          "breathing": null,
+          "breathing_pattern": null,
+          "pattern_per": null,
+          "start": null,
+          "notes": "With flip turns."
+        }
+      ]
+    }
+  ]
+}

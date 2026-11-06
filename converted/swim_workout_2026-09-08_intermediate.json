@@ -1,0 +1,310 @@
+{
+  "date": "2026-09-08",
+  "group": "intermediate",
+  "focus": null,
+  "phase": null,
+  "unit": "yards",
+  "total_distance": 2850,
+  "sets": [
+    {
+      "name": "Warm up",
+      "category": "warmup",
+      "set_distance": 600,
+      "reps": 1,
+      "items": [
+        {
+          "reps": 1,
+          "distance": 300,
+          "stroke": "choice",
+          "type": "swim",
+          "interval_seconds": null,
+          "rest_seconds": null,
+          "equipment": [],
+          "drill": null,
+          "effort": null,
+          "breathing": null,
+          "breathing_pattern": null,
+          "pattern_per": null,
+          "start": null,
+          "notes": "Board says 'By 7:50' next to the set name; meaning not represented in structured fields."
+        },
+        {
+          "reps": 1,
+          "distance": 200,
+          "stroke": "choice",
+          "type": "kick",
+          "interval_seconds": null,
+          "rest_seconds": null,
+          "equipment": [],
+          "drill": null,
+          "effort": null,
+          "breathing": null,
+          "breathing_pattern": null,
+          "pattern_per": null,
+          "start": null,
+          "notes": null
+        },
+        {
+          "reps": 1,
+          "distance": 100,
+          "stroke": "im",
+          "type": "swim",
+          "interval_seconds": null,
+          "rest_seconds": null,
+          "equipment": [],
+          "drill": null,
+          "effort": null,
+          "breathing": null,
+          "breathing_pattern": null,
+          "pattern_per": null,
+          "start": null,
+          "notes": null
+        }
+      ]
+    },
+    {
+      "name": "Pre set",
+      "category": "preset",
+      "set_distance": 650,
+      "reps": 1,
+      "items": [
+        {
+          "reps": 2,
+          "items": [
+            {
+              "reps": 1,
+              "distance": 50,
+              "stroke": "choice",
+              "type": "scull",
+              "interval_seconds": null,
+              "rest_seconds": null,
+              "equipment": [],
+              "drill": null,
+              "effort": null,
+              "breathing": null,
+              "breathing_pattern": null,
+              "pattern_per": null,
+              "start": null,
+              "notes": "Board says '2x150 (scull,drill,swim) - one free, one stroke @ 3:00'; the 3:00 send-off applies to each 150 (scull, drill, swim), and one round is free and the other is another stroke."
+            },
+            {
+              "reps": 1,
+              "distance": 50,
+              "stroke": "choice",
+              "type": "drill",
+              "interval_seconds": null,
+              "rest_seconds": null,
+              "equipment": [],
+              "drill": null,
+              "effort": null,
+              "breathing": null,
+              "breathing_pattern": null,
+              "pattern_per": null,
+              "start": null,
+              "notes": null
+            },
+            {
+              "reps": 1,
+              "distance": 50,
+              "stroke": "choice",
+              "type": "swim",
+              "interval_seconds": null,
+              "rest_seconds": null,
+              "equipment": [],
+              "drill": null,
+              "effort": null,
+              "breathing": null,
+              "breathing_pattern": null,
+              "pattern_per": null,
+              "start": null,
+              "notes": null
+            }
+          ]
+        },
+        {
+          "reps": 1,
+          "distance": 200,
+          "stroke": "im",
+          "type": "swim",
+          "interval_seconds": 210,
+          "rest_seconds": null,
+          "equipment": [],
+          "drill": null,
+          "effort": null,
+          "breathing": null,
+          "breathing_pattern": null,
+          "pattern_per": null,
+          "start": null,
+          "notes": null
+        },
+        {
+          "reps": 4,
+          "distance": 25,
+          "stroke": "choice",
+          "type": "swim",
+          "interval_seconds": 40,
+          "rest_seconds": null,
+          "equipment": [],
+          "drill": null,
+          "effort": null,
+          "breathing": null,
+          "breathing_pattern": null,
+          "pattern_per": null,
+          "start": null,
+          "notes": "15 sprint, rest easy."
+        },
+        {
+          "reps": 1,
+          "distance": 50,
+          "stroke": "choice",
+          "type": "swim",
+          "interval_seconds": null,
+          "rest_seconds": null,
+          "equipment": [],
+          "drill": null,
+          "effort": "easy",
+          "breathing": null,
+          "breathing_pattern": null,
+          "pattern_per": null,
+          "start": null,
+          "notes": null
+        }
+      ]
+    },
+    {
+      "name": "Main Set",
+      "category": "main",
+      "set_distance": 1200,
+      "reps": 2,
+      "items": [
+        {
+          "reps": 1,
+          "distance": 200,
+          "stroke": "choice",
+          "type": "swim",
+          "interval_seconds": 180,
+          "rest_seconds": null,
+          "equipment": [
+            "paddles"
+          ],
+          "drill": null,
+          "effort": null,
+          "breathing": null,
+          "breathing_pattern": null,
+          "pattern_per": null,
+          "start": null,
+          "notes": null
+        },
+        {
+          "reps": 2,
+          "distance": 100,
+          "stroke": "choice",
+          "type": "swim",
+          "interval_seconds": 100,
+          "rest_seconds": null,
+          "equipment": [],
+          "drill": null,
+          "effort": null,
+          "breathing": null,
+          "breathing_pattern": null,
+          "pattern_per": null,
+          "start": null,
+          "notes": "Negative split each 100."
+        },
+        {
+          "reps": 3,
+          "distance": 50,
+          "stroke": "choice",
+          "type": "swim",
+          "interval_seconds": 60,
+          "rest_seconds": null,
+          "equipment": [],
+          "drill": null,
+          "effort": null,
+          "breathing": null,
+          "breathing_pattern": null,
+          "pattern_per": null,
+          "start": null,
+          "notes": "Board says '4x50 quarters, last one OTB'; 'quarters' is not defined in the vocabulary and needs human review. Split into 3 reps plus the final rep off the blocks."
+        },
+        {
+          "reps": 1,
+          "distance": 50,
+          "stroke": "choice",
+          "type": "swim",
+          "interval_seconds": 60,
+          "rest_seconds": null,
+          "equipment": [],
+          "drill": null,
+          "effort": null,
+          "breathing": null,
+          "breathing_pattern": null,
+          "pattern_per": null,
+          "start": "off_blocks",
+          "notes": "Last rep of the '4x50 quarters'."
+        }
+      ]
+    },
+    {
+      "name": "Warm-down",
+      "category": "cooldown",
+      "set_distance": 400,
+      "reps": 1,
+      "items": [
+        {
+          "reps": 2,
+          "items": [
+            {
+              "reps": 1,
+              "distance": 50,
+              "stroke": "free",
+              "type": "swim",
+              "interval_seconds": null,
+              "rest_seconds": 10,
+              "equipment": [],
+              "drill": null,
+              "effort": null,
+              "breathing": null,
+              "breathing_pattern": null,
+              "pattern_per": null,
+              "start": null,
+              "notes": null
+            },
+            {
+              "reps": 1,
+              "distance": 50,
+              "stroke": "back",
+              "type": "swim",
+              "interval_seconds": null,
+              "rest_seconds": 10,
+              "equipment": [],
+              "drill": null,
+              "effort": null,
+              "breathing": null,
+              "breathing_pattern": null,
+              "pattern_per": null,
+              "start": null,
+              "notes": null
+            }
+          ]
+        },
+        {
+          "reps": 1,
+          "distance": 200,
+          "stroke": "choice",
+          "type": "kick",
+          "interval_seconds": null,
+          "rest_seconds": null,
+          "equipment": [],
+          "drill": null,
+          "effort": "social",
+          "breathing": null,
+          "breathing_pattern": null,
+          "pattern_per": null,
+          "start": null,
+          "notes": null
+        }
+      ]
+    }
+  ]
+}

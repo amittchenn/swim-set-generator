@@ -1,0 +1,278 @@
+{
+  "date": "2026-10-13",
+  "group": "intermediate",
+  "focus": null,
+  "phase": null,
+  "unit": "yards",
+  "total_distance": 4150,
+  "sets": [
+    {
+      "name": "Warm Up",
+      "category": "warmup",
+      "set_distance": 1200,
+      "reps": 1,
+      "items": [
+        {
+          "reps": 1,
+          "distance": 100,
+          "stroke": "choice",
+          "type": "swim",
+          "interval_seconds": null,
+          "rest_seconds": null,
+          "equipment": [],
+          "drill": null,
+          "effort": null,
+          "breathing": null,
+          "breathing_pattern": null,
+          "pattern_per": null,
+          "start": null,
+          "notes": null
+        },
+        {
+          "reps": 1,
+          "distance": 200,
+          "stroke": "choice",
+          "type": "kick",
+          "interval_seconds": null,
+          "rest_seconds": null,
+          "equipment": [],
+          "drill": null,
+          "effort": null,
+          "breathing": null,
+          "breathing_pattern": null,
+          "pattern_per": null,
+          "start": null,
+          "notes": null
+        },
+        {
+          "reps": 1,
+          "distance": 300,
+          "stroke": "choice",
+          "type": "swim",
+          "interval_seconds": null,
+          "rest_seconds": null,
+          "equipment": [
+            "fins"
+          ],
+          "drill": null,
+          "effort": null,
+          "breathing": null,
+          "breathing_pattern": null,
+          "pattern_per": null,
+          "start": null,
+          "notes": null
+        },
+        {
+          "reps": 8,
+          "distance": 50,
+          "stroke": "choice",
+          "type": "swim",
+          "interval_seconds": 60,
+          "rest_seconds": null,
+          "equipment": [],
+          "drill": null,
+          "effort": null,
+          "breathing": null,
+          "breathing_pattern": null,
+          "pattern_per": null,
+          "start": null,
+          "notes": "Choice of gear/speed/stroke."
+        },
+        {
+          "reps": 8,
+          "distance": 25,
+          "stroke": "choice",
+          "type": "swim",
+          "interval_seconds": 30,
+          "rest_seconds": null,
+          "equipment": [],
+          "drill": null,
+          "effort": null,
+          "breathing": null,
+          "breathing_pattern": null,
+          "pattern_per": null,
+          "start": null,
+          "notes": "2 of each stroke."
+        }
+      ]
+    },
+    {
+      "name": "Pre Set",
+      "category": "preset",
+      "set_distance": 750,
+      "reps": 5,
+      "items": [
+        {
+          "reps": 1,
+          "distance": 25,
+          "stroke": "choice",
+          "type": null,
+          "interval_seconds": 30,
+          "rest_seconds": null,
+          "equipment": [
+            "fins"
+          ],
+          "drill": null,
+          "effort": null,
+          "breathing": "no_breath",
+          "breathing_pattern": null,
+          "pattern_per": null,
+          "start": null,
+          "notes": "Board says '25 underwater w/ Fins no breathes'; activity type (swim vs kick) not specified."
+        },
+        {
+          "reps": 1,
+          "distance": 25,
+          "stroke": "choice",
+          "type": "swim",
+          "interval_seconds": 30,
+          "rest_seconds": null,
+          "equipment": [
+            "fins"
+          ],
+          "drill": null,
+          "effort": null,
+          "breathing": null,
+          "breathing_pattern": null,
+          "pattern_per": null,
+          "start": null,
+          "notes": null
+        },
+        {
+          "reps": 1,
+          "distance": 50,
+          "stroke": "choice",
+          "type": "swim",
+          "interval_seconds": 50,
+          "rest_seconds": null,
+          "equipment": [],
+          "drill": null,
+          "effort": null,
+          "breathing": null,
+          "breathing_pattern": null,
+          "pattern_per": null,
+          "start": null,
+          "notes": "Board says 'w/ 4 breathes'."
+        },
+        {
+          "reps": 1,
+          "distance": 50,
+          "stroke": "choice",
+          "type": "swim",
+          "interval_seconds": 60,
+          "rest_seconds": null,
+          "equipment": [],
+          "drill": null,
+          "effort": null,
+          "breathing": null,
+          "breathing_pattern": null,
+          "pattern_per": null,
+          "start": null,
+          "notes": null
+        }
+      ]
+    },
+    {
+      "name": "Main Set",
+      "category": "main",
+      "set_distance": 1800,
+      "reps": 1,
+      "items": [
+        {
+          "reps": 4,
+          "stroke_rotation": "im_order",
+          "items": [
+            {
+              "reps": 2,
+              "distance": 100,
+              "stroke": "choice",
+              "type": "swim",
+              "interval_seconds": null,
+              "rest_seconds": null,
+              "equipment": [],
+              "drill": null,
+              "effort": null,
+              "breathing": null,
+              "breathing_pattern": null,
+              "pattern_per": null,
+              "start": null,
+              "notes": "Intervals listed as @ 1:15 / 1:30 / 1:40 (level not specified). Board says 'Make with 5 - 10s'."
+            },
+            {
+              "reps": 1,
+              "distance": 100,
+              "stroke": null,
+              "type": "swim",
+              "interval_seconds": null,
+              "rest_seconds": null,
+              "equipment": [],
+              "drill": null,
+              "effort": null,
+              "breathing": null,
+              "breathing_pattern": null,
+              "pattern_per": null,
+              "start": null,
+              "notes": "Intervals listed as @ 1:25 / 1:40 / 1:55 (level not specified). IM stroke by round. Add 15s for breast round."
+            },
+            {
+              "reps": 2,
+              "distance": 50,
+              "stroke": "choice",
+              "type": "swim",
+              "interval_seconds": null,
+              "rest_seconds": null,
+              "equipment": [],
+              "drill": null,
+              "effort": null,
+              "breathing": null,
+              "breathing_pattern": null,
+              "pattern_per": null,
+              "start": null,
+              "notes": "Intervals listed as @ 35 / 45 / 50 (level not specified)."
+            },
+            {
+              "reps": 1,
+              "distance": 50,
+              "stroke": null,
+              "type": "swim",
+              "interval_seconds": null,
+              "rest_seconds": null,
+              "equipment": [],
+              "drill": null,
+              "effort": null,
+              "breathing": null,
+              "breathing_pattern": null,
+              "pattern_per": null,
+              "start": null,
+              "notes": "Intervals listed as @ 40 / 50 / 55 (level not specified). IM stroke by round. Fast. Add 5s for breast round. 1 min between rounds."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Warm Down",
+      "category": "cooldown",
+      "set_distance": 300,
+      "reps": 1,
+      "items": [
+        {
+          "reps": 1,
+          "distance": 300,
+          "stroke": "choice",
+          "type": "swim",
+          "interval_seconds": null,
+          "rest_seconds": null,
+          "equipment": [],
+          "drill": null,
+          "effort": null,
+          "breathing": null,
+          "breathing_pattern": null,
+          "pattern_per": null,
+          "start": null,
+          "notes": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,172 @@
+{
+  "date": "2026-10-12",
+  "group": "sprint",
+  "focus": null,
+  "phase": null,
+  "unit": "yards",
+  "total_distance": null,
+  "sets": [
+    {
+      "name": "Warm Up",
+      "category": "warmup",
+      "set_distance": null,
+      "reps": 1,
+      "items": [
+        {
+          "reps": 1,
+          "distance": 200,
+          "stroke": "choice",
+          "type": "swim",
+          "interval_seconds": null,
+          "rest_seconds": null,
+          "equipment": [],
+          "drill": null,
+          "effort": null,
+          "breathing": null,
+          "breathing_pattern": null,
+          "pattern_per": null,
+          "start": null,
+          "notes": "Board header says 'Sprint (Yard Count is Imaginary)'; unit recorded as yards, please verify."
+        },
+        {
+          "reps": 1,
+          "distance": 200,
+          "stroke": "choice",
+          "type": "scull",
+          "interval_seconds": null,
+          "rest_seconds": null,
+          "equipment": [],
+          "drill": null,
+          "effort": null,
+          "breathing": null,
+          "breathing_pattern": null,
+          "pattern_per": null,
+          "start": null,
+          "notes": null
+        },
+        {
+          "reps": 1,
+          "distance": 200,
+          "stroke": "choice",
+          "type": "swim",
+          "interval_seconds": null,
+          "rest_seconds": null,
+          "equipment": [
+            "fins"
+          ],
+          "drill": null,
+          "effort": null,
+          "breathing": null,
+          "breathing_pattern": null,
+          "pattern_per": null,
+          "start": null,
+          "notes": null
+        }
+      ]
+    },
+    {
+      "name": "Pre",
+      "category": "preset",
+      "set_distance": null,
+      "reps": 1,
+      "items": [
+        {
+          "reps": 4,
+          "distance": 25,
+          "stroke": "choice",
+          "type": "swim",
+          "interval_seconds": null,
+          "rest_seconds": null,
+          "equipment": [],
+          "drill": null,
+          "effort": null,
+          "breathing": null,
+          "breathing_pattern": null,
+          "pattern_per": null,
+          "start": null,
+          "notes": "w/ Chutes (not in equipment vocabulary) @ 75%"
+        },
+        {
+          "reps": 1,
+          "distance": null,
+          "stroke": "choice",
+          "type": "swim",
+          "interval_seconds": 150,
+          "rest_seconds": null,
+          "equipment": [],
+          "drill": null,
+          "effort": null,
+          "breathing": null,
+          "breathing_pattern": null,
+          "pattern_per": null,
+          "start": null,
+          "notes": "Board says '20 fast 5 easy'; meaning of the numbers and rep count unclear, needs human review."
+        }
+      ]
+    },
+    {
+      "name": "Main",
+      "category": "main",
+      "set_distance": null,
+      "reps": 1,
+      "items": [
+        {
+          "reps": 6,
+          "distance": 20,
+          "stroke": "choice",
+          "type": "swim",
+          "interval_seconds": 300,
+          "rest_seconds": null,
+          "equipment": [],
+          "drill": null,
+          "effort": null,
+          "breathing": null,
+          "breathing_pattern": null,
+          "pattern_per": null,
+          "start": null,
+          "notes": "Towers @ 100%. Do not do more than level 4 on towers."
+        },
+        {
+          "reps": 2,
+          "distance": 20,
+          "stroke": "choice",
+          "type": "swim",
+          "interval_seconds": 300,
+          "rest_seconds": null,
+          "equipment": [],
+          "drill": null,
+          "effort": null,
+          "breathing": null,
+          "breathing_pattern": null,
+          "pattern_per": null,
+          "start": "off_blocks",
+          "notes": "@ 100%"
+        }
+      ]
+    },
+    {
+      "name": "Warm Down",
+      "category": "cooldown",
+      "set_distance": null,
+      "reps": 1,
+      "items": [
+        {
+          "reps": 1,
+          "distance": null,
+          "stroke": "choice",
+          "type": "swim",
+          "interval_seconds": null,
+          "rest_seconds": null,
+          "equipment": [],
+          "drill": null,
+          "effort": null,
+          "breathing": null,
+          "breathing_pattern": null,
+          "pattern_per": null,
+          "start": null,
+          "notes": "However Much You Want"
+        }
+      ]
+    }
+  ]
+}

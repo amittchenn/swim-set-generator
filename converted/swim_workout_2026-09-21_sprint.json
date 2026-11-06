@@ -1,0 +1,312 @@
+{
+  "date": "2026-09-21",
+  "group": "sprint",
+  "focus": null,
+  "phase": null,
+  "unit": "yards",
+  "total_distance": 1800,
+  "sets": [
+    {
+      "name": "Warm Up",
+      "category": "warmup",
+      "set_distance": 850,
+      "reps": 1,
+      "items": [
+        {
+          "reps": 2,
+          "items": [
+            {
+              "reps": 1,
+              "distance": 100,
+              "stroke": "choice",
+              "type": "swim",
+              "interval_seconds": null,
+              "rest_seconds": null,
+              "equipment": [
+                "fins"
+              ],
+              "drill": null,
+              "effort": null,
+              "breathing": null,
+              "breathing_pattern": null,
+              "pattern_per": null,
+              "start": null,
+              "notes": null
+            },
+            {
+              "reps": 1,
+              "distance": 100,
+              "stroke": "choice",
+              "type": "kick",
+              "interval_seconds": null,
+              "rest_seconds": null,
+              "equipment": [
+                "fins"
+              ],
+              "drill": null,
+              "effort": null,
+              "breathing": null,
+              "breathing_pattern": null,
+              "pattern_per": null,
+              "start": null,
+              "notes": null
+            }
+          ]
+        },
+        {
+          "reps": 1,
+          "distance": 100,
+          "stroke": "im",
+          "type": "drill",
+          "interval_seconds": null,
+          "rest_seconds": null,
+          "equipment": [],
+          "drill": null,
+          "effort": null,
+          "breathing": null,
+          "breathing_pattern": null,
+          "pattern_per": null,
+          "start": null,
+          "notes": "Board says '200 IM DR/SW'; split as 100 drill then 100 swim."
+        },
+        {
+          "reps": 1,
+          "distance": 100,
+          "stroke": "im",
+          "type": "swim",
+          "interval_seconds": null,
+          "rest_seconds": null,
+          "equipment": [],
+          "drill": null,
+          "effort": null,
+          "breathing": null,
+          "breathing_pattern": null,
+          "pattern_per": null,
+          "start": null,
+          "notes": null
+        },
+        {
+          "reps": 2,
+          "distance": 50,
+          "stroke": "choice",
+          "type": "scull",
+          "interval_seconds": null,
+          "rest_seconds": null,
+          "equipment": [],
+          "drill": null,
+          "effort": null,
+          "breathing": null,
+          "breathing_pattern": null,
+          "pattern_per": null,
+          "start": null,
+          "notes": null
+        },
+        {
+          "reps": 2,
+          "items": [
+            {
+              "reps": 1,
+              "distance": 25,
+              "stroke": "choice",
+              "type": "drill",
+              "interval_seconds": null,
+              "rest_seconds": null,
+              "equipment": [],
+              "drill": null,
+              "effort": null,
+              "breathing": null,
+              "breathing_pattern": null,
+              "pattern_per": null,
+              "start": null,
+              "notes": "Spin Drill"
+            },
+            {
+              "reps": 1,
+              "distance": 25,
+              "stroke": "choice",
+              "type": "kick",
+              "interval_seconds": null,
+              "rest_seconds": null,
+              "equipment": [],
+              "drill": null,
+              "effort": null,
+              "breathing": null,
+              "breathing_pattern": null,
+              "pattern_per": null,
+              "start": null,
+              "notes": "Overkick"
+            }
+          ]
+        },
+        {
+          "reps": 1,
+          "distance": 50,
+          "stroke": "choice",
+          "type": "swim",
+          "interval_seconds": null,
+          "rest_seconds": null,
+          "equipment": [],
+          "drill": null,
+          "effort": null,
+          "breathing": null,
+          "breathing_pattern": null,
+          "pattern_per": null,
+          "start": "off_blocks",
+          "notes": "Broken 50 in segments of 20yd, 17.5yd, 12.5yd."
+        }
+      ]
+    },
+    {
+      "name": "Pre Set - BC + Turns",
+      "category": "preset",
+      "set_distance": null,
+      "reps": 1,
+      "items": [
+        {
+          "reps": 4,
+          "distance": 50,
+          "stroke": "choice",
+          "type": "swim",
+          "interval_seconds": 70,
+          "rest_seconds": null,
+          "equipment": [],
+          "drill": null,
+          "effort": null,
+          "breathing": null,
+          "breathing_pattern": null,
+          "pattern_per": null,
+          "start": null,
+          "notes": "BC 0-1 (breathing pattern includes 0, which the vocabulary cannot represent). Interval written '1:10/+5'; the '+5' is unexplained. Set header states approximate distance '~500'."
+        },
+        {
+          "reps": 4,
+          "distance": 25,
+          "stroke": "choice",
+          "type": "swim",
+          "interval_seconds": 50,
+          "rest_seconds": null,
+          "equipment": [],
+          "drill": null,
+          "effort": null,
+          "breathing": "no_breath",
+          "breathing_pattern": null,
+          "pattern_per": null,
+          "start": null,
+          "notes": "Finish to feet. Followed by ':30, move to middle'."
+        },
+        {
+          "reps": 6,
+          "distance": 25,
+          "stroke": "choice",
+          "type": "swim",
+          "interval_seconds": 60,
+          "rest_seconds": null,
+          "equipment": [],
+          "drill": null,
+          "effort": null,
+          "breathing": "no_breath",
+          "breathing_pattern": null,
+          "pattern_per": null,
+          "start": null,
+          "notes": "Board says 'NB FTM' (FTM abbreviation unverified). Followed by 'Move back, grab cords'."
+        },
+        {
+          "reps": 4,
+          "distance": null,
+          "stroke": "choice",
+          "type": "drill",
+          "interval_seconds": null,
+          "rest_seconds": null,
+          "equipment": [],
+          "drill": null,
+          "effort": null,
+          "breathing": null,
+          "breathing_pattern": null,
+          "pattern_per": null,
+          "start": null,
+          "notes": "ALL OUT TURN, cord assisted: partner pulls in cord, lets go around 1yd out. Cords not in equipment vocabulary."
+        }
+      ]
+    },
+    {
+      "name": "Main Set - Assisted work",
+      "category": "main",
+      "set_distance": 250,
+      "reps": 1,
+      "items": [
+        {
+          "reps": 4,
+          "distance": 25,
+          "stroke": "choice",
+          "type": "swim",
+          "interval_seconds": 60,
+          "rest_seconds": null,
+          "equipment": [],
+          "drill": null,
+          "effort": null,
+          "breathing": "no_breath",
+          "breathing_pattern": null,
+          "pattern_per": null,
+          "start": null,
+          "notes": "Build to ALL OUT"
+        },
+        {
+          "reps": 3,
+          "distance": 20,
+          "stroke": "choice",
+          "type": "swim",
+          "interval_seconds": null,
+          "rest_seconds": null,
+          "equipment": [],
+          "drill": null,
+          "effort": null,
+          "breathing": null,
+          "breathing_pattern": null,
+          "pattern_per": null,
+          "start": "off_blocks",
+          "notes": "Submax"
+        },
+        {
+          "reps": 3,
+          "distance": 25,
+          "stroke": "choice",
+          "type": "swim",
+          "interval_seconds": null,
+          "rest_seconds": null,
+          "equipment": [],
+          "drill": null,
+          "effort": null,
+          "breathing": null,
+          "breathing_pattern": null,
+          "pattern_per": null,
+          "start": null,
+          "notes": "@ 90%, assisted w/cords (cords not in equipment vocabulary)"
+        }
+      ]
+    },
+    {
+      "name": "Warm Down",
+      "category": "cooldown",
+      "set_distance": null,
+      "reps": 1,
+      "items": [
+        {
+          "reps": 4,
+          "distance": 50,
+          "stroke": "choice",
+          "type": "swim",
+          "interval_seconds": null,
+          "rest_seconds": null,
+          "equipment": [],
+          "drill": null,
+          "effort": "easy",
+          "breathing": null,
+          "breathing_pattern": null,
+          "pattern_per": null,
+          "start": null,
+          "notes": null
+        }
+      ]
+    }
+  ]
+}

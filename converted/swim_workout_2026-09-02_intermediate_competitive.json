@@ -1,0 +1,241 @@
+{
+  "date": "2026-09-02",
+  "group": "intermediate",
+  "focus": null,
+  "phase": null,
+  "unit": "yards",
+  "total_distance": 3500,
+  "sets": [
+    {
+      "name": "Warm up",
+      "category": "warmup",
+      "set_distance": 600,
+      "reps": 1,
+      "items": [
+        {
+          "reps": 1,
+          "distance": 200,
+          "stroke": "choice",
+          "type": "swim",
+          "interval_seconds": null,
+          "rest_seconds": null,
+          "equipment": [],
+          "drill": null,
+          "effort": null,
+          "breathing": null,
+          "breathing_pattern": null,
+          "pattern_per": null,
+          "start": null,
+          "notes": "Group listed as 'Intermediate + Competitive'; only one group value is allowed in the schema."
+        },
+        {
+          "reps": 1,
+          "distance": 200,
+          "stroke": "choice",
+          "type": "kick",
+          "interval_seconds": null,
+          "rest_seconds": null,
+          "equipment": [],
+          "drill": null,
+          "effort": null,
+          "breathing": null,
+          "breathing_pattern": null,
+          "pattern_per": null,
+          "start": null,
+          "notes": null
+        },
+        {
+          "reps": 1,
+          "distance": 200,
+          "stroke": "choice",
+          "type": "pull",
+          "interval_seconds": null,
+          "rest_seconds": null,
+          "equipment": [],
+          "drill": null,
+          "effort": null,
+          "breathing": null,
+          "breathing_pattern": null,
+          "pattern_per": null,
+          "start": null,
+          "notes": null
+        }
+      ]
+    },
+    {
+      "name": "Pre-set",
+      "category": "preset",
+      "set_distance": 1000,
+      "reps": 1,
+      "items": [
+        {
+          "reps": 4,
+          "distance": 50,
+          "stroke": "choice",
+          "type": "scull",
+          "interval_seconds": null,
+          "rest_seconds": null,
+          "equipment": [],
+          "drill": null,
+          "effort": null,
+          "breathing": null,
+          "breathing_pattern": null,
+          "pattern_per": null,
+          "start": null,
+          "notes": "Scull positions in order: front, middle, windshield, back. Send-off intervals written as 1:30/1:45 (two intervals, group assignment not stated)."
+        },
+        {
+          "reps": 4,
+          "distance": 50,
+          "stroke": "choice",
+          "type": "drill",
+          "interval_seconds": null,
+          "rest_seconds": null,
+          "equipment": [],
+          "drill": null,
+          "effort": null,
+          "breathing": null,
+          "breathing_pattern": null,
+          "pattern_per": null,
+          "start": null,
+          "notes": "Focus on pull phase. Send-off intervals written as 1:00/1:15 (two intervals, group assignment not stated)."
+        },
+        {
+          "reps": 4,
+          "distance": 100,
+          "stroke": "choice",
+          "type": null,
+          "interval_seconds": null,
+          "rest_seconds": null,
+          "equipment": [
+            "paddles"
+          ],
+          "drill": null,
+          "effort": null,
+          "breathing": null,
+          "breathing_pattern": null,
+          "pattern_per": null,
+          "start": null,
+          "notes": "Board says 'paddles over-kick'; activity unclear. Send-off intervals written as 1:30/1:40 (two intervals, group assignment not stated)."
+        },
+        {
+          "reps": 4,
+          "distance": 50,
+          "stroke": "choice",
+          "type": "kick",
+          "interval_seconds": 60,
+          "rest_seconds": null,
+          "equipment": [],
+          "drill": null,
+          "effort": "speed_play",
+          "breathing": null,
+          "breathing_pattern": null,
+          "pattern_per": null,
+          "start": null,
+          "notes": "Board says '(Only A Interval)'."
+        }
+      ]
+    },
+    {
+      "name": "Main set",
+      "category": "main",
+      "set_distance": 1500,
+      "reps": 3,
+      "items": [
+        {
+          "reps": 3,
+          "distance": 100,
+          "stroke": "choice",
+          "type": "swim",
+          "interval_seconds": null,
+          "rest_seconds": null,
+          "equipment": [],
+          "drill": null,
+          "effort": "descend",
+          "breathing": null,
+          "breathing_pattern": null,
+          "pattern_per": null,
+          "start": null,
+          "notes": "Send-off intervals written as 1:30/1:45 (two intervals, group assignment not stated). Round instructions: Rd 1 - IM; Rd 2 - Free/stroke; Rd 3 - Free with fins. Which items each round instruction applies to is not stated."
+        },
+        {
+          "reps": 1,
+          "distance": 100,
+          "stroke": "choice",
+          "type": "kick",
+          "interval_seconds": null,
+          "rest_seconds": null,
+          "equipment": [],
+          "drill": null,
+          "effort": null,
+          "breathing": null,
+          "breathing_pattern": null,
+          "pattern_per": null,
+          "start": null,
+          "notes": "All out. Send-off intervals written as 1:45/2:00 (two intervals, group assignment not stated)."
+        },
+        {
+          "reps": 1,
+          "distance": 100,
+          "stroke": "choice",
+          "type": "swim",
+          "interval_seconds": 120,
+          "rest_seconds": null,
+          "equipment": [],
+          "drill": null,
+          "effort": "easy",
+          "breathing": null,
+          "breathing_pattern": null,
+          "pattern_per": null,
+          "start": null,
+          "notes": null
+        }
+      ]
+    },
+    {
+      "name": "Warm-down",
+      "category": "cooldown",
+      "set_distance": 400,
+      "reps": 1,
+      "items": [
+        {
+          "reps": 4,
+          "items": [
+            {
+              "reps": 1,
+              "distance": 50,
+              "stroke": "free",
+              "type": "swim",
+              "interval_seconds": null,
+              "rest_seconds": null,
+              "equipment": [],
+              "drill": null,
+              "effort": null,
+              "breathing": null,
+              "breathing_pattern": null,
+              "pattern_per": null,
+              "start": null,
+              "notes": "Board says '8 x 50s evens back, odds free'."
+            },
+            {
+              "reps": 1,
+              "distance": 50,
+              "stroke": "back",
+              "type": "swim",
+              "interval_seconds": null,
+              "rest_seconds": null,
+              "equipment": [],
+              "drill": null,
+              "effort": null,
+              "breathing": null,
+              "breathing_pattern": null,
+              "pattern_per": null,
+              "start": null,
+              "notes": null
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

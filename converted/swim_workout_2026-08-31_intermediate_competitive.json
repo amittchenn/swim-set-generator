@@ -1,0 +1,366 @@
+{
+  "date": "2026-08-31",
+  "group": "intermediate",
+  "focus": null,
+  "phase": null,
+  "unit": "yards",
+  "total_distance": 3100,
+  "sets": [
+    {
+      "name": "Warm Up",
+      "category": "warmup",
+      "set_distance": 900,
+      "reps": 1,
+      "items": [
+        {
+          "reps": 1,
+          "distance": 300,
+          "stroke": "choice",
+          "type": "swim",
+          "interval_seconds": null,
+          "rest_seconds": null,
+          "equipment": [],
+          "drill": null,
+          "effort": null,
+          "breathing": null,
+          "breathing_pattern": null,
+          "pattern_per": null,
+          "start": null,
+          "notes": "Board says 'BP 3 or 5'; unrecognized abbreviation, needs review."
+        },
+        {
+          "reps": 2,
+          "items": [
+            {
+              "reps": 1,
+              "distance": 50,
+              "stroke": "back",
+              "type": "swim",
+              "interval_seconds": null,
+              "rest_seconds": null,
+              "equipment": [],
+              "drill": null,
+              "effort": null,
+              "breathing": null,
+              "breathing_pattern": null,
+              "pattern_per": null,
+              "start": null,
+              "notes": null
+            },
+            {
+              "reps": 1,
+              "distance": 50,
+              "stroke": "choice",
+              "type": "scull",
+              "interval_seconds": null,
+              "rest_seconds": null,
+              "equipment": [],
+              "drill": null,
+              "effort": null,
+              "breathing": null,
+              "breathing_pattern": null,
+              "pattern_per": null,
+              "start": null,
+              "notes": null
+            }
+          ]
+        },
+        {
+          "reps": 4,
+          "items": [
+            {
+              "reps": 1,
+              "distance": 25,
+              "stroke": "im",
+              "type": "kick",
+              "interval_seconds": null,
+              "rest_seconds": null,
+              "equipment": [],
+              "drill": null,
+              "effort": null,
+              "breathing": null,
+              "breathing_pattern": null,
+              "pattern_per": null,
+              "start": null,
+              "notes": "Board says '4 x 75 IM K/D/S'; each 75 split as 25 kick, 25 drill, 25 swim."
+            },
+            {
+              "reps": 1,
+              "distance": 25,
+              "stroke": "im",
+              "type": "drill",
+              "interval_seconds": null,
+              "rest_seconds": null,
+              "equipment": [],
+              "drill": null,
+              "effort": null,
+              "breathing": null,
+              "breathing_pattern": null,
+              "pattern_per": null,
+              "start": null,
+              "notes": null
+            },
+            {
+              "reps": 1,
+              "distance": 25,
+              "stroke": "im",
+              "type": "swim",
+              "interval_seconds": null,
+              "rest_seconds": 20,
+              "equipment": [],
+              "drill": null,
+              "effort": null,
+              "breathing": null,
+              "breathing_pattern": null,
+              "pattern_per": null,
+              "start": null,
+              "notes": "Board says ':20 rest' for the 75; the 20 seconds rest is taken after each full 75 (after this swim 25)."
+            }
+          ]
+        },
+        {
+          "reps": 2,
+          "distance": 25,
+          "stroke": "choice",
+          "type": "swim",
+          "interval_seconds": null,
+          "rest_seconds": null,
+          "equipment": [],
+          "drill": null,
+          "effort": null,
+          "breathing": "no_breath",
+          "breathing_pattern": null,
+          "pattern_per": null,
+          "start": null,
+          "notes": null
+        },
+        {
+          "reps": 1,
+          "distance": 50,
+          "stroke": "choice",
+          "type": "swim",
+          "interval_seconds": null,
+          "rest_seconds": null,
+          "equipment": [],
+          "drill": null,
+          "effort": null,
+          "breathing": null,
+          "breathing_pattern": null,
+          "pattern_per": null,
+          "start": null,
+          "notes": "Breath control (BC) 0-1 or 1-1, swimmer's choice; 0 is not representable in breathing_pattern."
+        }
+      ]
+    },
+    {
+      "name": "Breath Control Pre Set",
+      "category": "preset",
+      "set_distance": 500,
+      "reps": 1,
+      "items": [
+        {
+          "reps": 2,
+          "distance": 25,
+          "stroke": "choice",
+          "type": "swim",
+          "interval_seconds": 45,
+          "rest_seconds": null,
+          "equipment": [],
+          "drill": null,
+          "effort": null,
+          "breathing": "no_breath",
+          "breathing_pattern": null,
+          "pattern_per": null,
+          "start": null,
+          "notes": "No breath to 15 yd."
+        },
+        {
+          "reps": 2,
+          "distance": 25,
+          "stroke": "choice",
+          "type": "swim",
+          "interval_seconds": 45,
+          "rest_seconds": null,
+          "equipment": [],
+          "drill": null,
+          "effort": null,
+          "breathing": "no_breath",
+          "breathing_pattern": null,
+          "pattern_per": null,
+          "start": null,
+          "notes": null
+        },
+        {
+          "reps": 4,
+          "distance": 50,
+          "stroke": "choice",
+          "type": "swim",
+          "interval_seconds": null,
+          "rest_seconds": null,
+          "equipment": [],
+          "drill": null,
+          "effort": null,
+          "breathing": null,
+          "breathing_pattern": null,
+          "pattern_per": null,
+          "start": null,
+          "notes": "BC 0-1 / 1-1 / 1-2 (swimmer selects level). Interval is 1:10 or 1:15 as written (@ 1:10/1:15), not specified which applies. 1:00 rest follows this set."
+        },
+        {
+          "reps": 3,
+          "distance": 50,
+          "stroke": "choice",
+          "type": "swim",
+          "interval_seconds": 120,
+          "rest_seconds": null,
+          "equipment": [],
+          "drill": null,
+          "effort": null,
+          "breathing": null,
+          "breathing_pattern": null,
+          "pattern_per": null,
+          "start": null,
+          "notes": "BC one level below previous selection; if 0-1 on the 4 x 50, these are NB. 2:00 rest follows this set."
+        },
+        {
+          "reps": 1,
+          "distance": 50,
+          "stroke": "choice",
+          "type": "swim",
+          "interval_seconds": null,
+          "rest_seconds": null,
+          "equipment": [],
+          "drill": null,
+          "effort": null,
+          "breathing": "no_breath",
+          "breathing_pattern": null,
+          "pattern_per": null,
+          "start": "off_blocks",
+          "notes": "Doesn't have to be fast."
+        }
+      ]
+    },
+    {
+      "name": "Light Aerobic Main Set",
+      "category": "main",
+      "set_distance": 1300,
+      "reps": 1,
+      "items": [
+        {
+          "reps": 2,
+          "items": [
+            {
+              "reps": 5,
+              "distance": 100,
+              "stroke": "choice",
+              "type": "swim",
+              "interval_seconds": null,
+              "rest_seconds": null,
+              "equipment": [],
+              "drill": null,
+              "effort": null,
+              "breathing": null,
+              "breathing_pattern": null,
+              "pattern_per": null,
+              "start": null,
+              "notes": "Interval written as 1:15/1:20 (1:10 if desired); specific interval not determined."
+            },
+            {
+              "reps": 1,
+              "distance": 50,
+              "stroke": "choice",
+              "type": "swim",
+              "interval_seconds": 120,
+              "rest_seconds": null,
+              "equipment": [],
+              "drill": null,
+              "effort": "easy",
+              "breathing": null,
+              "breathing_pattern": null,
+              "pattern_per": null,
+              "start": null,
+              "notes": null
+            }
+          ]
+        },
+        {
+          "reps": 1,
+          "distance": 200,
+          "stroke": "choice",
+          "type": "swim",
+          "interval_seconds": null,
+          "rest_seconds": null,
+          "equipment": [],
+          "drill": null,
+          "effort": null,
+          "breathing": null,
+          "breathing_pattern": null,
+          "pattern_per": null,
+          "start": null,
+          "notes": "Negative split."
+        }
+      ]
+    },
+    {
+      "name": "Warm Down",
+      "category": "cooldown",
+      "set_distance": 400,
+      "reps": 1,
+      "items": [
+        {
+          "reps": 1,
+          "distance": 200,
+          "stroke": "choice",
+          "type": "kick",
+          "interval_seconds": null,
+          "rest_seconds": null,
+          "equipment": [],
+          "drill": null,
+          "effort": "social",
+          "breathing": null,
+          "breathing_pattern": null,
+          "pattern_per": null,
+          "start": null,
+          "notes": null
+        },
+        {
+          "reps": 4,
+          "items": [
+            {
+              "reps": 1,
+              "distance": 25,
+              "stroke": "back",
+              "type": "swim",
+              "interval_seconds": null,
+              "rest_seconds": null,
+              "equipment": [],
+              "drill": null,
+              "effort": null,
+              "breathing": null,
+              "breathing_pattern": null,
+              "pattern_per": null,
+              "start": null,
+              "notes": null
+            },
+            {
+              "reps": 1,
+              "distance": 25,
+              "stroke": "free",
+              "type": "swim",
+              "interval_seconds": null,
+              "rest_seconds": null,
+              "equipment": [],
+              "drill": null,
+              "effort": null,
+              "breathing": null,
+              "breathing_pattern": null,
+              "pattern_per": null,
+              "start": null,
+              "notes": null
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

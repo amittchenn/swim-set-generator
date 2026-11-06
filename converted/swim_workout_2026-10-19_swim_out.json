@@ -1,0 +1,249 @@
+{
+  "date": "2026-10-19",
+  "group": null,
+  "focus": null,
+  "phase": null,
+  "unit": "yards",
+  "total_distance": 3500,
+  "sets": [
+    {
+      "name": "Warm Up",
+      "category": "warmup",
+      "set_distance": 1000,
+      "reps": 1,
+      "items": [
+        {
+          "reps": 5,
+          "distance": 200,
+          "stroke": "choice",
+          "type": null,
+          "interval_seconds": null,
+          "rest_seconds": null,
+          "equipment": [],
+          "drill": null,
+          "effort": null,
+          "breathing": null,
+          "breathing_pattern": null,
+          "pattern_per": null,
+          "start": null,
+          "notes": "Board says 'Skids'; unrecognized term, needs human review."
+        }
+      ]
+    },
+    {
+      "name": "Pre-Set",
+      "category": "preset",
+      "set_distance": 600,
+      "reps": 1,
+      "items": [
+        {
+          "reps": 6,
+          "distance": 50,
+          "stroke": "choice",
+          "type": "drill",
+          "interval_seconds": 60,
+          "rest_seconds": null,
+          "equipment": [],
+          "drill": "over_under",
+          "effort": null,
+          "breathing": null,
+          "breathing_pattern": null,
+          "pattern_per": null,
+          "start": null,
+          "notes": null
+        },
+        {
+          "reps": 3,
+          "distance": 100,
+          "stroke": "choice",
+          "type": "swim",
+          "interval_seconds": null,
+          "rest_seconds": null,
+          "equipment": [],
+          "drill": null,
+          "effort": null,
+          "breathing": "count",
+          "breathing_pattern": [
+            3,
+            5,
+            7,
+            5
+          ],
+          "pattern_per": 25,
+          "start": null,
+          "notes": "Board says '3/5/7/5 Breathing' with no stated granularity; pattern_per 25 assumed from four values over a 100."
+        }
+      ]
+    },
+    {
+      "name": "Main Set",
+      "category": "main",
+      "set_distance": 1500,
+      "reps": 1,
+      "items": [
+        {
+          "reps": 5,
+          "items": [
+            {
+              "reps": 1,
+              "distance": 75,
+              "stroke": "choice",
+              "type": "swim",
+              "interval_seconds": null,
+              "rest_seconds": null,
+              "equipment": [],
+              "drill": null,
+              "effort": null,
+              "breathing": null,
+              "breathing_pattern": null,
+              "pattern_per": null,
+              "start": null,
+              "notes": "Board says '@ 1:00 / 1:10 / 1:20 JMI'; multiple send-off intervals listed (not mapped to rounds) and 'JMI' is an unrecognized abbreviation, needs human review."
+            },
+            {
+              "reps": 1,
+              "distance": 25,
+              "stroke": "choice",
+              "type": "swim",
+              "interval_seconds": 30,
+              "rest_seconds": null,
+              "equipment": [],
+              "drill": null,
+              "effort": null,
+              "breathing": null,
+              "breathing_pattern": null,
+              "pattern_per": null,
+              "start": null,
+              "notes": "Board says 'kinda fast'."
+            }
+          ]
+        },
+        {
+          "reps": 4,
+          "items": [
+            {
+              "reps": 1,
+              "distance": 50,
+              "stroke": "choice",
+              "type": "kick",
+              "interval_seconds": null,
+              "rest_seconds": null,
+              "equipment": [],
+              "drill": null,
+              "effort": null,
+              "breathing": null,
+              "breathing_pattern": null,
+              "pattern_per": null,
+              "start": null,
+              "notes": "Board says '4 x 100 @ 1:45 / 1:55 / 2:05 50 Kick/50 Stroke IM'; multiple send-off intervals listed for the 100 (not mapped to reps)."
+            },
+            {
+              "reps": 1,
+              "distance": 50,
+              "stroke": "im",
+              "type": "swim",
+              "interval_seconds": null,
+              "rest_seconds": null,
+              "equipment": [],
+              "drill": null,
+              "effort": null,
+              "breathing": null,
+              "breathing_pattern": null,
+              "pattern_per": null,
+              "start": null,
+              "notes": null
+            }
+          ]
+        },
+        {
+          "reps": 3,
+          "distance": 100,
+          "stroke": "choice",
+          "type": "swim",
+          "interval_seconds": null,
+          "rest_seconds": null,
+          "equipment": [],
+          "drill": null,
+          "effort": null,
+          "breathing": null,
+          "breathing_pattern": null,
+          "pattern_per": null,
+          "start": null,
+          "notes": "Board says '@ 1:20 / 1:30 / 1:40 JMI'; multiple send-off intervals listed (not mapped to reps) and 'JMI' is an unrecognized abbreviation, needs human review."
+        },
+        {
+          "reps": 2,
+          "distance": 100,
+          "stroke": "choice",
+          "type": "swim",
+          "interval_seconds": null,
+          "rest_seconds": null,
+          "equipment": [],
+          "drill": null,
+          "effort": "speed_play",
+          "breathing": null,
+          "breathing_pattern": null,
+          "pattern_per": null,
+          "start": null,
+          "notes": "Board says '@ 1:20 / 1:30 / 1:40 Speed Play with the 100 kinda fast'; multiple send-off intervals listed (not mapped to reps)."
+        },
+        {
+          "reps": 1,
+          "distance": 100,
+          "stroke": "choice",
+          "type": "swim",
+          "interval_seconds": null,
+          "rest_seconds": null,
+          "equipment": [],
+          "drill": null,
+          "effort": "easy",
+          "breathing": null,
+          "breathing_pattern": null,
+          "pattern_per": null,
+          "start": null,
+          "notes": null
+        }
+      ]
+    },
+    {
+      "name": "Warm Down",
+      "category": "cooldown",
+      "set_distance": 400,
+      "reps": 1,
+      "items": [
+        {
+          "reps": 4,
+          "distance": 50,
+          "stroke": "choice",
+          "type": "swim",
+          "interval_seconds": 60,
+          "rest_seconds": null,
+          "equipment": [],
+          "drill": null,
+          "effort": null,
+          "breathing": null,
+          "breathing_pattern": null,
+          "pattern_per": null,
+          "start": null,
+          "notes": "Board says 'Ascend'; not in the effort vocabulary, needs human review."
+        },
+        {
+          "reps": 4,
+          "distance": 50,
+          "stroke": "back",
+          "type": "swim",
+          "interval_seconds": 90,
+          "rest_seconds": null,
+          "equipment": [],
+          "drill": null,
+          "effort": null,
+          "breathing": null,
+          "breathing_pattern": null,
+          "pattern_per": null,
+          "start": null,
+          "notes": "Board says 'Double Arm Back'."
+        }
+      ]
+    }
+  ]
+}

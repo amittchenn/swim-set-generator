@@ -1,0 +1,243 @@
+{
+  "date": "2026-10-26",
+  "group": "sprint",
+  "focus": null,
+  "phase": null,
+  "unit": "yards",
+  "total_distance": null,
+  "sets": [
+    {
+      "name": "Warm Up",
+      "category": "warmup",
+      "set_distance": null,
+      "reps": 1,
+      "items": [
+        {
+          "reps": 1,
+          "distance": 200,
+          "stroke": "choice",
+          "type": "swim",
+          "interval_seconds": null,
+          "rest_seconds": null,
+          "equipment": [],
+          "drill": null,
+          "effort": null,
+          "breathing": null,
+          "breathing_pattern": null,
+          "pattern_per": null,
+          "start": null,
+          "notes": null
+        },
+        {
+          "reps": 1,
+          "distance": 100,
+          "stroke": "choice",
+          "type": "scull",
+          "interval_seconds": null,
+          "rest_seconds": null,
+          "equipment": [],
+          "drill": null,
+          "effort": null,
+          "breathing": null,
+          "breathing_pattern": null,
+          "pattern_per": null,
+          "start": null,
+          "notes": null
+        },
+        {
+          "reps": 1,
+          "distance": 200,
+          "stroke": "choice",
+          "type": "kick",
+          "interval_seconds": null,
+          "rest_seconds": null,
+          "equipment": [],
+          "drill": null,
+          "effort": null,
+          "breathing": null,
+          "breathing_pattern": null,
+          "pattern_per": null,
+          "start": null,
+          "notes": null
+        },
+        {
+          "reps": 1,
+          "distance": 100,
+          "stroke": "choice",
+          "type": "scull",
+          "interval_seconds": null,
+          "rest_seconds": null,
+          "equipment": [],
+          "drill": null,
+          "effort": null,
+          "breathing": null,
+          "breathing_pattern": null,
+          "pattern_per": null,
+          "start": null,
+          "notes": null
+        },
+        {
+          "reps": 2,
+          "items": [
+            {
+              "reps": 8,
+              "distance": 25,
+              "stroke": "choice",
+              "type": "swim",
+              "interval_seconds": 30,
+              "rest_seconds": null,
+              "equipment": [],
+              "drill": null,
+              "effort": "speed_play",
+              "breathing": null,
+              "breathing_pattern": null,
+              "pattern_per": null,
+              "start": null,
+              "notes": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Turn Work",
+      "category": "preset",
+      "set_distance": null,
+      "reps": 1,
+      "items": [
+        {
+          "reps": 6,
+          "distance": 50,
+          "stroke": "choice",
+          "type": "drill",
+          "interval_seconds": 90,
+          "rest_seconds": null,
+          "equipment": [],
+          "drill": null,
+          "effort": null,
+          "breathing": null,
+          "breathing_pattern": null,
+          "pattern_per": null,
+          "start": null,
+          "notes": "Double turn reps; sprint into wall."
+        },
+        {
+          "reps": 6,
+          "distance": 25,
+          "stroke": "choice",
+          "type": "drill",
+          "interval_seconds": 60,
+          "rest_seconds": null,
+          "equipment": [],
+          "drill": null,
+          "effort": null,
+          "breathing": null,
+          "breathing_pattern": null,
+          "pattern_per": null,
+          "start": null,
+          "notes": "Single turn reps; sprint into wall."
+        },
+        {
+          "reps": 12,
+          "distance": null,
+          "stroke": "choice",
+          "type": "swim",
+          "interval_seconds": 120,
+          "rest_seconds": null,
+          "equipment": [
+            "bungee"
+          ],
+          "drill": null,
+          "effort": null,
+          "breathing": null,
+          "breathing_pattern": null,
+          "pattern_per": null,
+          "start": null,
+          "notes": "Bungee pull into wall. High stroke rate with sprint technique but not max effort."
+        }
+      ]
+    },
+    {
+      "name": "Start Work",
+      "category": "main",
+      "set_distance": null,
+      "reps": 1,
+      "items": [
+        {
+          "reps": 2,
+          "distance": 25,
+          "stroke": "choice",
+          "type": "swim",
+          "interval_seconds": 180,
+          "rest_seconds": null,
+          "equipment": [],
+          "drill": null,
+          "effort": null,
+          "breathing": null,
+          "breathing_pattern": null,
+          "pattern_per": null,
+          "start": "off_blocks",
+          "notes": "25s are to a flip."
+        },
+        {
+          "reps": 6,
+          "distance": null,
+          "stroke": "choice",
+          "type": "swim",
+          "interval_seconds": 180,
+          "rest_seconds": null,
+          "equipment": [
+            "bungee"
+          ],
+          "drill": null,
+          "effort": null,
+          "breathing": null,
+          "breathing_pattern": null,
+          "pattern_per": null,
+          "start": "off_blocks",
+          "notes": null
+        },
+        {
+          "reps": 2,
+          "distance": 25,
+          "stroke": "choice",
+          "type": "swim",
+          "interval_seconds": 180,
+          "rest_seconds": null,
+          "equipment": [],
+          "drill": null,
+          "effort": null,
+          "breathing": null,
+          "breathing_pattern": null,
+          "pattern_per": null,
+          "start": "off_blocks",
+          "notes": "25s are to a flip."
+        }
+      ]
+    },
+    {
+      "name": "WD",
+      "category": "cooldown",
+      "set_distance": null,
+      "reps": 1,
+      "items": [
+        {
+          "reps": 1,
+          "distance": 200,
+          "stroke": "choice",
+          "type": "swim",
+          "interval_seconds": null,
+          "rest_seconds": null,
+          "equipment": [],
+          "drill": null,
+          "effort": null,
+          "breathing": null,
+          "breathing_pattern": null,
+          "pattern_per": null,
+          "start": null,
+          "notes": null
+        }
+      ]
+    }
+  ]
+}

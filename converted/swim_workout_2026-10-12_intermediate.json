@@ -1,0 +1,222 @@
+{
+  "date": "2026-10-12",
+  "group": "intermediate",
+  "focus": null,
+  "phase": null,
+  "unit": "yards",
+  "total_distance": null,
+  "sets": [
+    {
+      "name": "Warm Up",
+      "category": "warmup",
+      "set_distance": 850,
+      "reps": 1,
+      "items": [
+        {
+          "reps": 1,
+          "distance": 300,
+          "stroke": "choice",
+          "type": "swim",
+          "interval_seconds": null,
+          "rest_seconds": null,
+          "equipment": [],
+          "drill": null,
+          "effort": null,
+          "breathing": null,
+          "breathing_pattern": null,
+          "pattern_per": null,
+          "start": null,
+          "notes": null
+        },
+        {
+          "reps": 1,
+          "distance": 100,
+          "stroke": "im",
+          "type": "kick",
+          "interval_seconds": null,
+          "rest_seconds": null,
+          "equipment": [],
+          "drill": null,
+          "effort": null,
+          "breathing": null,
+          "breathing_pattern": null,
+          "pattern_per": null,
+          "start": null,
+          "notes": "Board says '200 IM K/D'; split as 100 kick then 100 drill."
+        },
+        {
+          "reps": 1,
+          "distance": 100,
+          "stroke": "im",
+          "type": "drill",
+          "interval_seconds": null,
+          "rest_seconds": null,
+          "equipment": [],
+          "drill": null,
+          "effort": null,
+          "breathing": null,
+          "breathing_pattern": null,
+          "pattern_per": null,
+          "start": null,
+          "notes": null
+        },
+        {
+          "reps": 2,
+          "items": [
+            {
+              "reps": 1,
+              "distance": 50,
+              "stroke": "back",
+              "type": "swim",
+              "interval_seconds": null,
+              "rest_seconds": null,
+              "equipment": [],
+              "drill": null,
+              "effort": null,
+              "breathing": null,
+              "breathing_pattern": null,
+              "pattern_per": null,
+              "start": null,
+              "notes": null
+            },
+            {
+              "reps": 1,
+              "distance": 50,
+              "stroke": "choice",
+              "type": "scull",
+              "interval_seconds": null,
+              "rest_seconds": null,
+              "equipment": [],
+              "drill": null,
+              "effort": null,
+              "breathing": null,
+              "breathing_pattern": null,
+              "pattern_per": null,
+              "start": null,
+              "notes": null
+            }
+          ]
+        },
+        {
+          "reps": 1,
+          "distance": 100,
+          "stroke": "choice",
+          "type": "kick",
+          "interval_seconds": null,
+          "rest_seconds": null,
+          "equipment": [],
+          "drill": null,
+          "effort": null,
+          "breathing": null,
+          "breathing_pattern": null,
+          "pattern_per": null,
+          "start": null,
+          "notes": "Kick Build"
+        },
+        {
+          "reps": 2,
+          "distance": 25,
+          "stroke": "choice",
+          "type": "swim",
+          "interval_seconds": null,
+          "rest_seconds": null,
+          "equipment": [],
+          "drill": null,
+          "effort": null,
+          "breathing": null,
+          "breathing_pattern": null,
+          "pattern_per": null,
+          "start": "off_blocks",
+          "notes": "w/breakout"
+        }
+      ]
+    },
+    {
+      "name": "Pre Set",
+      "category": "preset",
+      "set_distance": 850,
+      "reps": 1,
+      "items": [
+        {
+          "reps": 2,
+          "items": [
+            {
+              "reps": 4,
+              "distance": 25,
+              "stroke": "choice",
+              "type": "drill",
+              "interval_seconds": 50,
+              "rest_seconds": null,
+              "equipment": [
+                "paddles"
+              ],
+              "drill": null,
+              "effort": null,
+              "breathing": null,
+              "breathing_pattern": null,
+              "pattern_per": null,
+              "start": null,
+              "notes": "Paddle on Head"
+            },
+            {
+              "reps": 4,
+              "distance": 50,
+              "stroke": "choice",
+              "type": "pull",
+              "interval_seconds": 75,
+              "rest_seconds": null,
+              "equipment": [],
+              "drill": null,
+              "effort": null,
+              "breathing": null,
+              "breathing_pattern": null,
+              "pattern_per": null,
+              "start": null,
+              "notes": "Pull Progression"
+            }
+          ]
+        },
+        {
+          "reps": 10,
+          "distance": 25,
+          "stroke": "choice",
+          "type": null,
+          "interval_seconds": 70,
+          "rest_seconds": null,
+          "equipment": [],
+          "drill": null,
+          "effort": null,
+          "breathing": null,
+          "breathing_pattern": null,
+          "pattern_per": null,
+          "start": null,
+          "notes": "FTM 2-2-2 (unrecognized abbreviation/instruction, needs verification). Board says ':30, move to middle' before this item and ':30, move back' after it."
+        }
+      ]
+    },
+    {
+      "name": "Main Set - Drills",
+      "category": "main",
+      "set_distance": null,
+      "reps": 1,
+      "items": [
+        {
+          "reps": 16,
+          "distance": 50,
+          "stroke": "choice",
+          "type": null,
+          "interval_seconds": 75,
+          "rest_seconds": null,
+          "equipment": [],
+          "drill": null,
+          "effort": null,
+          "breathing": null,
+          "breathing_pattern": null,
+          "pattern_per": null,
+          "start": null,
+          "notes": "Board lists '4 - Free' and '4 - Stroke' under 16 x 50; the breakdown/order of the 16 reps is unclear and needs human review."
+        }
+      ]
+    }
+  ]
+}

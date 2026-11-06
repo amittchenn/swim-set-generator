@@ -19,6 +19,8 @@ ROTATIONS = {"im_order", None}
 
 
 def item_distance(item):
+    if item.get("reps") is None:
+        return None
     if "items" in item:
         child = [item_distance(c) for c in item["items"]]
         if None in child:

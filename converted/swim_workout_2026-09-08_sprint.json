@@ -1,0 +1,288 @@
+{
+  "date": "2026-09-08",
+  "group": "sprint",
+  "focus": null,
+  "phase": null,
+  "unit": "yards",
+  "total_distance": null,
+  "sets": [
+    {
+      "name": "Warm up",
+      "category": "warmup",
+      "set_distance": null,
+      "reps": 1,
+      "items": [
+        {
+          "reps": 5,
+          "distance": 200,
+          "stroke": "choice",
+          "type": null,
+          "interval_seconds": null,
+          "rest_seconds": null,
+          "equipment": [],
+          "drill": null,
+          "effort": null,
+          "breathing": null,
+          "breathing_pattern": null,
+          "pattern_per": null,
+          "start": null,
+          "notes": "Out by 7:50. Board says '1000 SKIDS by 200'; SKIDS is an unrecognized abbreviation, needs review. Board then says 'OR': either this 1000 SKIDS option or the following 150 swim / 100 scull / 150 kick / 100 swim option."
+        },
+        {
+          "reps": 1,
+          "distance": 150,
+          "stroke": "choice",
+          "type": "swim",
+          "interval_seconds": null,
+          "rest_seconds": null,
+          "equipment": [],
+          "drill": null,
+          "effort": null,
+          "breathing": null,
+          "breathing_pattern": null,
+          "pattern_per": null,
+          "start": null,
+          "notes": "Alternative option to the 1000 SKIDS by 200."
+        },
+        {
+          "reps": 1,
+          "distance": 100,
+          "stroke": "choice",
+          "type": "scull",
+          "interval_seconds": null,
+          "rest_seconds": null,
+          "equipment": [],
+          "drill": null,
+          "effort": null,
+          "breathing": null,
+          "breathing_pattern": null,
+          "pattern_per": null,
+          "start": null,
+          "notes": null
+        },
+        {
+          "reps": 1,
+          "distance": 150,
+          "stroke": "choice",
+          "type": "kick",
+          "interval_seconds": null,
+          "rest_seconds": null,
+          "equipment": [
+            "kickboard"
+          ],
+          "drill": null,
+          "effort": null,
+          "breathing": null,
+          "breathing_pattern": null,
+          "pattern_per": null,
+          "start": null,
+          "notes": "Submerged board."
+        },
+        {
+          "reps": 1,
+          "distance": 100,
+          "stroke": "choice",
+          "type": "swim",
+          "interval_seconds": null,
+          "rest_seconds": null,
+          "equipment": [],
+          "drill": null,
+          "effort": null,
+          "breathing": null,
+          "breathing_pattern": null,
+          "pattern_per": null,
+          "start": null,
+          "notes": null
+        }
+      ]
+    },
+    {
+      "name": "Pre Set",
+      "category": "preset",
+      "set_distance": null,
+      "reps": 1,
+      "items": [
+        {
+          "reps": 2,
+          "items": [
+            {
+              "reps": 1,
+              "distance": 20,
+              "stroke": "choice",
+              "type": "swim",
+              "interval_seconds": 120,
+              "rest_seconds": null,
+              "equipment": [
+                "fins",
+                "bungee"
+              ],
+              "drill": null,
+              "effort": null,
+              "breathing": null,
+              "breathing_pattern": null,
+              "pattern_per": null,
+              "start": null,
+              "notes": "60% effort. Optional 1x50 aerobic pace between each 20. Board writes 'Chords'; mapped to bungee."
+            },
+            {
+              "reps": 1,
+              "distance": 20,
+              "stroke": "choice",
+              "type": "swim",
+              "interval_seconds": 120,
+              "rest_seconds": null,
+              "equipment": [
+                "fins",
+                "bungee"
+              ],
+              "drill": null,
+              "effort": null,
+              "breathing": null,
+              "breathing_pattern": null,
+              "pattern_per": null,
+              "start": null,
+              "notes": "75% effort."
+            },
+            {
+              "reps": 1,
+              "distance": 20,
+              "stroke": "choice",
+              "type": "swim",
+              "interval_seconds": 120,
+              "rest_seconds": null,
+              "equipment": [
+                "fins",
+                "bungee"
+              ],
+              "drill": null,
+              "effort": null,
+              "breathing": null,
+              "breathing_pattern": null,
+              "pattern_per": null,
+              "start": null,
+              "notes": "90% effort."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Main Set",
+      "category": "main",
+      "set_distance": null,
+      "reps": 1,
+      "items": [
+        {
+          "reps": 1,
+          "distance": 25,
+          "stroke": "choice",
+          "type": "swim",
+          "interval_seconds": 240,
+          "rest_seconds": null,
+          "equipment": [],
+          "drill": null,
+          "effort": null,
+          "breathing": null,
+          "breathing_pattern": null,
+          "pattern_per": null,
+          "start": "off_blocks",
+          "notes": "90% effort. All efforts in this set @ 4:00. Optional 1x100 aerobic pace between each effort."
+        },
+        {
+          "reps": 1,
+          "distance": 20,
+          "stroke": "choice",
+          "type": "swim",
+          "interval_seconds": 240,
+          "rest_seconds": null,
+          "equipment": [
+            "bungee"
+          ],
+          "drill": null,
+          "effort": null,
+          "breathing": null,
+          "breathing_pattern": null,
+          "pattern_per": null,
+          "start": "off_blocks",
+          "notes": "90% effort. Board writes 'Chord'; mapped to bungee."
+        },
+        {
+          "reps": 4,
+          "distance": 20,
+          "stroke": "choice",
+          "type": "swim",
+          "interval_seconds": 240,
+          "rest_seconds": null,
+          "equipment": [
+            "bungee"
+          ],
+          "drill": null,
+          "effort": null,
+          "breathing": null,
+          "breathing_pattern": null,
+          "pattern_per": null,
+          "start": "off_blocks",
+          "notes": "100% effort."
+        },
+        {
+          "reps": 1,
+          "distance": 20,
+          "stroke": "choice",
+          "type": "swim",
+          "interval_seconds": 240,
+          "rest_seconds": null,
+          "equipment": [
+            "bungee"
+          ],
+          "drill": null,
+          "effort": null,
+          "breathing": null,
+          "breathing_pattern": null,
+          "pattern_per": null,
+          "start": "off_blocks",
+          "notes": "90% effort."
+        },
+        {
+          "reps": 3,
+          "distance": 25,
+          "stroke": "choice",
+          "type": "swim",
+          "interval_seconds": 240,
+          "rest_seconds": null,
+          "equipment": [],
+          "drill": null,
+          "effort": null,
+          "breathing": null,
+          "breathing_pattern": null,
+          "pattern_per": null,
+          "start": "off_blocks",
+          "notes": "100% effort, 'to Flip'."
+        }
+      ]
+    },
+    {
+      "name": "Warm Down",
+      "category": "cooldown",
+      "set_distance": null,
+      "reps": 1,
+      "items": [
+        {
+          "reps": 4,
+          "distance": 50,
+          "stroke": "back",
+          "type": "swim",
+          "interval_seconds": 80,
+          "rest_seconds": null,
+          "equipment": [],
+          "drill": null,
+          "effort": null,
+          "breathing": null,
+          "breathing_pattern": null,
+          "pattern_per": null,
+          "start": null,
+          "notes": "Double Arm Backstroke."
+        }
+      ]
+    }
+  ]
+}

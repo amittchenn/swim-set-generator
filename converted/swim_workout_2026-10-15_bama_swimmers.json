@@ -1,0 +1,74 @@
+{
+  "date": "2026-10-15",
+  "group": null,
+  "focus": null,
+  "phase": null,
+  "unit": "yards",
+  "total_distance": null,
+  "sets": [
+    {
+      "name": "Choice meet warm up",
+      "category": "warmup",
+      "set_distance": null,
+      "reps": 1,
+      "items": [
+        {
+          "reps": 1,
+          "distance": null,
+          "stroke": "choice",
+          "type": null,
+          "interval_seconds": null,
+          "rest_seconds": null,
+          "equipment": [],
+          "drill": null,
+          "effort": null,
+          "breathing": null,
+          "breathing_pattern": null,
+          "pattern_per": null,
+          "start": null,
+          "notes": "Coach wrote 'Choice meet warm up' with no distances. 'Text a coach or see Week 5 Wednesday for recommended warm ups if you are unsure of what to do!' Group 'Bama Swimmers' is not in the group vocabulary, so group is null. Unit is not stated on the board (yards assumed, needs confirmation). Source header lists '3500 - 4000', a range rather than a total."
+        }
+      ]
+    },
+    {
+      "name": "STINGERS",
+      "category": "main",
+      "set_distance": null,
+      "reps": 2,
+      "items": [
+        {
+          "reps": 1,
+          "distance": null,
+          "stroke": "choice",
+          "type": "swim",
+          "interval_seconds": null,
+          "rest_seconds": null,
+          "equipment": [],
+          "drill": null,
+          "effort": null,
+          "breathing": null,
+          "breathing_pattern": null,
+          "pattern_per": null,
+          "start": "off_blocks",
+          "notes": "Coach wrote '2-3 x', so the number of rounds is a range; set reps recorded as the minimum of 2. ONE (1) STINGER OTB, swimmer chooses one: 125 @ 500 pace OR 75 @ 200 pace OR 25 ALL OUT."
+        },
+        {
+          "reps": 1,
+          "distance": null,
+          "stroke": "choice",
+          "type": "swim",
+          "interval_seconds": null,
+          "rest_seconds": null,
+          "equipment": [],
+          "drill": null,
+          "effort": "easy",
+          "breathing": null,
+          "breathing_pattern": null,
+          "pattern_per": null,
+          "start": null,
+          "notes": "Board says '200/100 EZ'; distance is either 200 or 100 (presumably matching the stinger chosen, not stated)."
+        }
+      ]
+    }
+  ]
+}
