@@ -20,6 +20,7 @@ Allowed values:
 - `distance` — Mid/Distance, Comp Distance, Distance, Mid-D
 - `intermediate` — Inter, Intermediate
 - `intro` — Intro
+- `mixed` — Whole-team or special-day groups: Swim Out, Everyone Else, Non-Meet Swimmers, Meet Prep
 - `recreational`
 - `masters`
 - `developmental`
@@ -87,8 +88,8 @@ The coach's original set name.
 
 Examples:
 - `Warm Up`
-- `Recovery Set`
-- `NB`
+- `Pre Set - Kick`
+- `WD`
 - `Warm Down`
 
 Names are preserved exactly as written.
@@ -522,13 +523,13 @@ All calculations use the practice-level `unit`. Computed values are never stored
 
 | Set | Distance |
 |---|---:|
-| Warm Up | 1175 |
-| Recovery Set | 2500 |
-| NB | 200 |
-| Warm Down | 200 |
-| Total | 4075 |
+| Warm up | 600 |
+| Pre-set | 1000 |
+| Main set | 1500 |
+| Warm-down | 400 |
+| Total | 3500 |
 
-The Recovery Set is repeated twice.
+The Main set has `reps: 3`, so its distance is 3 × its items.
 
 ---
 

@@ -3,7 +3,7 @@ import json
 import re
 import sys
 
-GROUPS = {"competitive", "sprint", "distance", "intermediate", "intro", "recreational", "masters", "developmental"}
+GROUPS = {"competitive", "sprint", "distance", "intermediate", "intro", "mixed", "recreational", "masters", "developmental"}
 FOCUSES = {"recovery", "endurance", "speed", "technique", "race_pace", "lactate_tolerance", None}
 PHASES = {"base", "build", "taper", None}
 UNITS = {"yards", "meters"}
@@ -112,7 +112,7 @@ def validate(path):
         print(f"\n{path}\n  ❌ file must contain one practice, not a list")
         return 1
 
-    if not re.fullmatch(r"\d{4}-\d{2}-\d{2}", str(p.get("date"))):
+    if "date" in p and not re.fullmatch(r"\d{4}-\d{2}-\d{2}", str(p.get("date"))):
         errors.append(f"date must be YYYY-MM-DD, got {p.get('date')!r}")
     for field, allowed in [("group", GROUPS), ("focus", FOCUSES), ("phase", PHASES), ("unit", UNITS)]:
         if p.get(field) not in allowed:

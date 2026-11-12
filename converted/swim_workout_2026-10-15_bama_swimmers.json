@@ -1,6 +1,6 @@
 {
   "date": "2026-10-15",
-  "group": null,
+  "group": "mixed",
   "focus": null,
   "phase": null,
   "unit": "yards",
@@ -70,5 +70,7 @@
         }
       ]
     }
-  ]
+  ],
+  "skip": true,
+  "skip_reason": "Meet warm-up + stingers for swimmers at the Bama meet, not a full practice"
 }
