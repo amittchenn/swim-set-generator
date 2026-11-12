@@ -1,0 +1,199 @@
+{
+  "group": "competitive",
+  "focus": "recovery",
+  "phase": null,
+  "unit": "yards",
+  "total_distance": 4075,
+  "sets": [
+    {
+      "name": "Warm Up",
+      "category": "warmup",
+      "set_distance": 800,
+      "reps": 1,
+      "items": [
+        {
+          "reps": 1,
+          "distance": 400,
+          "stroke": "free",
+          "type": "swim",
+          "interval_seconds": null,
+          "rest_seconds": null,
+          "equipment": [],
+          "drill": null,
+          "effort": "easy",
+          "breathing": null,
+          "breathing_pattern": null,
+          "pattern_per": null,
+          "start": null,
+          "notes": null
+        },
+        {
+          "reps": 4,
+          "distance": 50,
+          "stroke": "choice",
+          "type": "kick",
+          "interval_seconds": 70,
+          "rest_seconds": null,
+          "equipment": [],
+          "drill": null,
+          "effort": "easy",
+          "breathing": null,
+          "breathing_pattern": null,
+          "pattern_per": null,
+          "start": null,
+          "notes": null
+        },
+        {
+          "reps": 4,
+          "distance": 50,
+          "stroke": "choice",
+          "type": "drill",
+          "interval_seconds": 65,
+          "rest_seconds": null,
+          "equipment": [],
+          "drill": null,
+          "effort": "easy",
+          "breathing": null,
+          "breathing_pattern": null,
+          "pattern_per": null,
+          "start": null,
+          "notes": null
+        }
+      ]
+    },
+    {
+      "name": "Pre Set - Scull/Drill",
+      "category": "preset",
+      "set_distance": 400,
+      "reps": 1,
+      "items": [
+        {
+          "reps": 4,
+          "items": [
+            {
+              "reps": 1,
+              "distance": 50,
+              "stroke": "choice",
+              "type": "scull",
+              "interval_seconds": 70,
+              "rest_seconds": null,
+              "equipment": [],
+              "drill": null,
+              "effort": null,
+              "breathing": null,
+              "breathing_pattern": null,
+              "pattern_per": null,
+              "start": null,
+              "notes": null
+            },
+            {
+              "reps": 1,
+              "distance": 50,
+              "stroke": "choice",
+              "type": "drill",
+              "interval_seconds": 70,
+              "rest_seconds": null,
+              "equipment": [],
+              "drill": null,
+              "effort": null,
+              "breathing": null,
+              "breathing_pattern": null,
+              "pattern_per": null,
+              "start": null,
+              "notes": "Focus on long, smooth strokes."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Recovery Kick",
+      "category": "kick",
+      "set_distance": 400,
+      "reps": 1,
+      "items": [
+        {
+          "reps": 8,
+          "distance": 50,
+          "stroke": "choice",
+          "type": "kick",
+          "interval_seconds": 75,
+          "rest_seconds": null,
+          "equipment": [],
+          "drill": null,
+          "effort": "easy",
+          "breathing": null,
+          "breathing_pattern": null,
+          "pattern_per": null,
+          "start": null,
+          "notes": "Relaxed kick, no pushing the pace."
+        }
+      ]
+    },
+    {
+      "name": "Main Set",
+      "category": "main",
+      "set_distance": 2175,
+      "reps": 1,
+      "items": [
+        {
+          "reps": 5,
+          "distance": 300,
+          "stroke": "free",
+          "type": "swim",
+          "interval_seconds": 255,
+          "rest_seconds": null,
+          "equipment": [],
+          "drill": null,
+          "effort": "easy",
+          "breathing": null,
+          "breathing_pattern": null,
+          "pattern_per": null,
+          "start": null,
+          "notes": "Aerobic, smooth, and relaxed."
+        },
+        {
+          "reps": 9,
+          "distance": 75,
+          "stroke": "choice",
+          "type": "pull",
+          "interval_seconds": 90,
+          "rest_seconds": null,
+          "equipment": [],
+          "drill": null,
+          "effort": "easy",
+          "breathing": null,
+          "breathing_pattern": null,
+          "pattern_per": null,
+          "start": null,
+          "notes": "Long and loose, focus on feel for the water."
+        }
+      ]
+    },
+    {
+      "name": "Warm Down",
+      "category": "cooldown",
+      "set_distance": 300,
+      "reps": 1,
+      "items": [
+        {
+          "reps": 6,
+          "distance": 50,
+          "stroke": "back",
+          "type": "swim",
+          "interval_seconds": 70,
+          "rest_seconds": null,
+          "equipment": [],
+          "drill": null,
+          "effort": "easy",
+          "breathing": null,
+          "breathing_pattern": null,
+          "pattern_per": null,
+          "start": null,
+          "notes": null
+        }
+      ]
+    }
+  ],
+  "request": "Write a swim practice. group: competitive, focus: recovery, about 4075 yards"
+}
